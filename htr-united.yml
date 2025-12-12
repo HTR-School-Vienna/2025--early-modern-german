@@ -1,0 +1,69 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: 2025--Early-Modern-German
+url: https://github.com/HTR-School-Vienna/2025--early-modern-german
+description: 'Ground truth transcriptions of autograph letters of Emperor Leopold I to Lamberg and Pötting from 1655-1667. '
+language:
+  - deu
+script:
+  - iso: Latf
+    qualify: Kurrentschrift
+script-type: only-manuscript
+time:
+  notBefore: '1655'
+  notAfter: '1667'
+hands:
+  count: '1'
+  precision: exact
+volume:
+  - count: '271'
+    metric: pages
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Page-XML
+automatically-aligned: false
+production-software: Transkribus
+sources:
+  - reference: Privatbriefe Kaiser Leopold I. an den Grafen F. E. Pötting 1662-1673. Ed. by Alfred Francis Pribram and Moriz Landwehr von Pragenau. Vol. I. Wien 1903.
+    link: ''
+    description: ''
+authors:
+  - name: 'Tobias '
+    surname: Hübl
+    orcid: 0009-0005-1201-5634
+  - name: Tobias
+    surname: Bidlingmaier
+    orcid: 0009-0006-5835-7602
+  - name: Kateřina
+    surname: Tichá
+    orcid: 0009-0002-7432-8706
+  - name: Štěpánka
+    surname: Grunová
+    orcid: 0009-0003-1434-4904
+  - name: Karoline
+    surname: Müller
+    orcid: 0009-0003-0640-9667
+  - name: Eva
+    surname: Riedlsperger
+    orcid: 0009-0005-2652-2370
+  - name: Christian
+    surname: Standhartinger
+    orcid: 0000-0002-4973-326X
+  - name: Petra
+    surname: Křenková
+    orcid: 0009-0004-1072-8852
+  - name: 'Marek '
+    surname: Palys
+    orcid: 0009-0005-5706-6232
+  - name: Tomáš
+    surname: Konečný
+    orcid: 0009-0004-5058-673X
+  - name: 'Vojtěch '
+    surname: Kuna
+    orcid: 0009-0009-5421-4788
+  - name: Veronika
+    surname: Gašparcová
+    orcid: 0009-0005-2807-6028
+  - name: Petr
+    surname: Maťa
+    orcid: 0000-0002-6359-0357

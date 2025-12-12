@@ -1,0 +1,61 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 2025--Early-Modern-German
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'Tobias '
+    family-names: Hübl
+    orcid: 'https://orcid.org/0009-0005-1201-5634'
+  - given-names: Tobias
+    family-names: Bidlingmaier
+    orcid: 'https://orcid.org/0009-0006-5835-7602'
+  - given-names: Kateřina
+    family-names: Tichá
+    orcid: 'https://orcid.org/0009-0002-7432-8706'
+  - given-names: Štěpánka
+    family-names: Grunová
+    orcid: 'https://orcid.org/0009-0003-1434-4904'
+  - given-names: Karoline
+    family-names: Müller
+    orcid: 'https://orcid.org/0009-0003-0640-9667'
+  - given-names: Eva
+    family-names: Riedlsperger
+    orcid: 'https://orcid.org/0009-0005-2652-2370'
+  - given-names: Christian
+    family-names: Standhartinger
+    orcid: 'https://orcid.org/0000-0002-4973-326X'
+  - given-names: Petra
+    family-names: Křenková
+    orcid: 'https://orcid.org/0009-0004-1072-8852'
+  - given-names: 'Marek '
+    family-names: Palys
+    orcid: 'https://orcid.org/0009-0005-5706-6232'
+  - given-names: Tomáš
+    family-names: Konečný
+    orcid: 'https://orcid.org/0009-0004-5058-673X'
+  - given-names: 'Vojtěch '
+    family-names: Kuna
+    orcid: 'https://orcid.org/0009-0009-5421-4788'
+  - given-names: Veronika
+    family-names: Gašparcová
+    orcid: 'https://orcid.org/0009-0005-2807-6028'
+  - given-names: Petr
+    family-names: Maťa
+    orcid: 'https://orcid.org/0000-0002-6359-0357'
+repository-code: >-
+  https://github.com/HTR-School-Vienna/2025--early-modern-german
+abstract: >-
+  Ground truth transcriptions of autograph letters of
+  Emperor Leopold I to Lamberg and Pötting from 1655-1667. 
+keywords:
+  - Leopold I
+  - Johann Maximilian Count Lamberg
+  - Franz Eusebius Count Pötting
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2025-12-12'
