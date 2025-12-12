@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.34.0:model_id=50870:lm=none:date=17_11_2025_23:19</Creator>
+        <Created>2025-10-07T16:00:56.761+02:00</Created>
+        <LastChange>2025-11-18T14:11:24.784+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004765" pageNr="199" tsid="262036960" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YIFFAHKIVLOONUMGZSTVKZYE" xmlUrl="https://files.transkribus.eu/Get?id=OORAWRCRVJVPRDXTWSLRYDZG" imageId="87275724"/>
+    </Metadata>
+    <Page imageFilename="0199_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 233r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532895530" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1371,487 790,469 775,1252 1072,1329 1344,973 1858,942 1832,458"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} abbrev {offset:18; length:2;}">
+                <Coords points="843,645 1005,607 1077,625 1105,632 1117,666 1224,646 1310,609 1634,597 1698,625 1756,596 1757,539 1644,489 1447,539 1395,498 1322,543 1164,520 1082,555 846,511"/>
+                <Baseline points="851,615 896,613 941,612 987,610 1032,607 1077,604 1123,605 1168,606 1213,606 1259,606 1304,603 1349,600 1395,595 1440,591 1485,591 1531,591 1576,594 1621,594 1667,600 1712,603 1758,609"/>
+                <TextEquiv>
+                    <Unicode>Meinem Pottschaffter an des Königs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="865,731 1026,752 1332,711 1460,760 1593,716 1569,788 1701,772 1786,760 1812,643 1786,632 1727,616 1569,669 1502,614 1340,622 1261,674 1176,634 1116,668 1100,636 865,635"/>
+                <Baseline points="871,728 916,725 962,720 1008,717 1054,714 1100,713 1146,713 1191,713 1237,711 1283,710 1329,710 1375,712 1421,713 1467,713 1512,713 1558,716 1604,716 1650,719 1696,722 1742,722 1788,722"/>
+                <TextEquiv>
+                    <Unicode>Von Hispanien Liebden hove Franz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="848,846 1053,923 1235,847 1351,908 1430,869 1561,919 1753,898 1753,811 1621,768 1565,790 1591,741 1506,734 1437,765 1293,734 1189,785 1045,738 993,779 847,769"/>
+                <Baseline points="854,833 899,830 944,833 989,833 1034,830 1079,833 1124,833 1169,833 1214,833 1259,833 1304,833 1349,830 1394,830 1439,827 1484,830 1529,833 1574,833 1619,836 1664,839 1709,843 1755,848"/>
+                <TextEquiv>
+                    <Unicode>eusebio graven Von Pöttigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="800,1220 943,1236 973,1222 1137,1223 1180,1153 1130,1128 1008,1135 967,1142 901,1117 854,1142 801,1137"/>
+                <Baseline points="806,1215 831,1215 857,1215 883,1217 908,1218 934,1218 960,1218 985,1218 1011,1216 1037,1215 1062,1213 1088,1212 1114,1212 1140,1215"/>
+                <TextEquiv>
+                    <Unicode>Madrid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

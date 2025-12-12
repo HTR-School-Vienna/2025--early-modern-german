@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>12342425</docId>
+    <title>Leopold - Pötting 1666-1667</title>
+    <uploadTimestamp>1763675155549</uploadTimestamp>
+    <uploader>petr.mata@oeaw.ac.at</uploader>
+    <uploaderId>14631</uploaderId>
+    <nrOfPages>225</nrOfPages>
+    <pageId>106563641</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=XSGWMPSIVVLCQNGKGBXCIHKO</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=XSGWMPSIVVLCQNGKGBXCIHKO</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_12342425</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>2187942</colId>
+            <colName>HTR Winterschool 2025 German group</colName>
+            <description>created by petra.krenkova@ff.cuni.cz</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+            <isFavorite>false</isFavorite>
+        </colList>
+    </collectionList>
+    <mainColId>2187942</mainColId>
+</trpDocMetadata>

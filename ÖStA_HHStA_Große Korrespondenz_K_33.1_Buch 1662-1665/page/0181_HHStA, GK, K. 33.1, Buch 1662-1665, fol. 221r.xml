@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.34.0:model_id=50870:lm=none:date=08_11_2025_12:09</Creator>
+        <Created>2025-10-07T16:00:44.647+02:00</Created>
+        <LastChange>2025-12-01T17:29:03.864+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004736" pageNr="181" tsid="263400984" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=HKMNTSIURACJBZPIQMDTSNOI" xmlUrl="https://files.transkribus.eu/Get?id=KFZIMVLWLPQPZIHJAZNQJVYN" imageId="87275764"/>
+    </Metadata>
+    <Page imageFilename="0181_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 221r.JPG" imageWidth="1944" imageHeight="2592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532889797" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:0;}">
+            <Coords points="361,146 306,1540 1844,1559 1832,154"/>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="458,310 533,325 833,297 918,308 1092,297 1203,309 1254,296 1296,305 1303,335 1377,291 1590,333 1702,333 1701,244 1333,229 1148,216 1019,207 957,181 882,214 802,239 703,200 456,205"/>
+                <Baseline points="468,310 529,296 591,290 653,288 715,286 777,284 838,285 900,284 962,284 1024,283 1086,282 1147,278 1209,279 1271,284 1333,289 1395,294 1456,300 1518,304 1580,308 1642,314 1704,318"/>
+                <TextEquiv>
+                    <Unicode>Verhinderdt werden. Gesterdt Ist auch der graff Nothafft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:1;} abbrev {offset:0; length:27;expansion:Reichhofratsvicepräsident;}">
+                <Coords points="441,404 476,396 576,403 704,377 995,362 1076,361 1072,395 1128,392 1256,409 1374,392 1675,397 1793,446 1792,391 1668,358 1563,343 1453,347 1377,291 1303,335 805,286 504,316 439,338"/>
+                <Baseline points="450,388 517,381 584,372 651,366 719,362 786,360 853,356 921,356 988,358 1055,358 1123,358 1190,363 1257,372 1324,376 1392,378 1459,378 1526,382 1594,387 1661,395 1728,406 1796,420"/>
+                <TextEquiv>
+                    <Unicode>R. HoffRaths V. praesidendt an schlag gestorben, cuius anima </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:2;} corrected {offset:13; length:1;} abbrev {offset:44; length:4;expansion:kaiserlichen;}">
+                <Coords points="414,522 454,512 516,491 572,506 605,489 702,460 756,482 870,463 1006,467 1061,451 1135,471 1165,491 1266,488 1374,489 1615,508 1669,503 1712,456 1669,396 1552,418 1493,420 1366,386 1259,429 1170,406 1138,402 1080,417 1080,363 1038,366 954,395 815,370 711,433 546,392 414,439"/>
+                <Baseline points="424,494 486,487 548,477 611,467 673,461 736,455 798,450 860,450 923,448 985,450 1017,446 1048,448 1110,447 1172,450 1235,456 1297,466 1360,465 1422,468 1484,469 1547,472 1609,474 1672,484"/>
+                <TextEquiv>
+                    <Unicode>sit In pace. Verbleibe In vbrigen Euch mitt Kay.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:3;}">
+                <Coords points="1130,548 1010,623 948,599 881,636 800,595 759,607 732,612 666,599 426,626 426,551 515,484 550,507 601,523 662,480 764,452 778,478 831,507 897,500 953,458 1130,504"/>
+                <Baseline points="436,592 501,584 566,575 631,563 696,552 762,545 827,541 892,537 957,538 1022,536 1088,536 1118,536"/>
+                <TextEquiv>
+                    <Unicode>hulden bestendig wol gwogen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="410,706 363,792 570,782 685,752 747,737 762,673 762,600 741,617 728,588 672,607 638,619 621,548 515,624 487,621"/>
+                <Baseline points="395,785 516,708 625,691 653,684 680,682 708,680 736,674"/>
+                <TextEquiv>
+                    <Unicode>Leopoldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:5;} abbrev {offset:7; length:3;}">
+                <Coords points="1209,565 1270,461 1369,468 1640,503 1739,485 1738,569 1694,589"/>
+                <Baseline points="1241,548 1283,543 1348,540 1414,540 1479,546 1544,552 1609,559 1674,565 1740,570"/>
+                <TextEquiv>
+                    <Unicode>Wienn, den 3. Iuly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="1658,626 1724,636 1743,645 1776,627 1788,552 1744,550 1675,585 1657,588"/>
+                <Baseline points="1686,608 1712,611 1739,617 1766,626"/>
+                <TextEquiv>
+                    <Unicode>1665</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="436,959 1098,911 1682,975 1724,956 1717,844 1557,877 1437,831 1354,830 1224,858 1158,828 1064,864 864,858 839,849 767,819 639,846 575,839 491,845"/>
+                <Baseline points="465,938 731,949 1070,915 1105,918 1139,918 1174,919 1208,921 1243,922 1277,924 1312,922 1346,924 1381,925 1415,927 1450,931 1484,936 1519,938 1553,942 1588,944 1622,945 1657,947 1691,950 1726,954"/>
+                <TextEquiv>
+                    <Unicode>habe nur Euch avisiren wollen, daß hiebey 2 schreiben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:8;}">
+                <Coords points="407,1017 649,1020 748,1010 744,1043 801,1014 839,1037 1058,1035 1280,1032 1327,1037 1384,1014 1499,1054 1556,1029 1658,1067 1709,1057 1730,988 1692,972 1531,954 1470,946 1303,966 1201,916 1093,914 970,957 857,903 738,947 692,909 553,931 443,959"/>
+                <Baseline points="437,1005 868,988 1103,998 1137,1001 1171,1003 1205,1005 1238,1007 1272,1010 1306,1012 1340,1014 1374,1012 1407,1013 1441,1016 1475,1019 1509,1025 1542,1028 1576,1032 1610,1034 1644,1036 1678,1036 1712,1038"/>
+                <TextEquiv>
+                    <Unicode>an den Konig ligen. Eins Ist Zeichnet mitt o vnd daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:9;} textStyle {offset:61; length:1;superscript}">
+                <Coords points="416,1089 483,1109 575,1091 695,1115 797,1111 1110,1111 1591,1094 1707,1137 1767,1134 1796,1080 1748,1024 1666,1030 1511,1023 1264,1012 1056,1012 840,1000 732,991 551,1000 508,1023 470,1007 443,1013 414,1057"/>
+                <Baseline points="424,1084 490,1078 557,1078 623,1078 690,1078 756,1078 823,1075 889,1075 956,1077 1022,1086 1089,1088 1155,1087 1222,1089 1288,1090 1355,1090 1421,1090 1488,1092 1554,1094 1621,1096 1687,1104 1759,1118"/>
+                <TextEquiv>
+                    <Unicode>begrifft allein In Sich die No tification des dotsfalls daß 2o  ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:10;}">
+                <Coords points="397,1219 582,1207 812,1188 916,1224 996,1210 1390,1222 1576,1192 1618,1188 1627,1116 1505,1091 1115,1126 1064,1150 780,1088 741,1115 572,1101 514,1109 459,1102 396,1110"/>
+                <Baseline points="406,1178 467,1178 528,1176 589,1176 651,1174 712,1176 773,1176 835,1176 896,1178 957,1181 1019,1186 1080,1189 1141,1191 1202,1193 1264,1195 1300,1193 1325,1196 1386,1194 1448,1189 1509,1180 1570,1178 1632,1180"/>
+                <TextEquiv>
+                    <Unicode>Zeichen betrifft Die befoderung der abrais der Infantin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:11;} unclear {offset:4; length:2;alternative:Edition\u003a\u0020für;}">
+                <Coords points="352,1303 705,1342 805,1305 923,1377 1048,1361 1630,1320 1630,1224 1500,1237 1433,1197 1367,1236 1333,1228 1106,1221 1013,1241 924,1222 854,1268 716,1207 517,1209 380,1227"/>
+                <Baseline points="362,1296 425,1298 489,1306 552,1308 616,1303 680,1302 743,1302 807,1306 870,1310 934,1318 998,1322 1061,1323 1125,1320 1188,1318 1252,1318 1316,1316 1379,1310 1443,1306 1506,1302 1570,1303 1634,1306"/>
+                <TextEquiv>
+                    <Unicode>daß An die Konigin Ist Zu gleich In beder materi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:12;}">
+                <Coords points="375,1446 437,1440 576,1392 734,1446 819,1445 906,1418 1041,1531 1203,1478 1333,1447 1251,1368 1045,1363 931,1376 802,1298 761,1306 737,1272 636,1320 567,1305 519,1337 369,1325"/>
+                <Baseline points="382,1380 422,1387 463,1391 504,1394 545,1394 586,1392 626,1392 667,1394 708,1394 749,1394 790,1396 830,1400 871,1403 912,1407 953,1412 994,1415 1034,1417 1075,1420 1116,1420 1157,1422 1198,1426"/>
+                <TextEquiv>
+                    <Unicode>e questo vi basti per aviso L.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

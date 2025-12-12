@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T15:59:43.154+02:00</Created>
+        <LastChange>2025-11-17T21:43:41.596+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004607" pageNr="101" tsid="262036679" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=WVZUXRBCHGKFICYJGWWBKFZV" xmlUrl="https://files.transkribus.eu/Get?id=MHVQTTMVQZNNNVQYOLSBOXSR" imageId="87275666"/>
+    </Metadata>
+    <Page imageFilename="0101_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 142r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532866371" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_117"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_117" custom="readingOrder {index:0;}">
+            <Coords points="805,747 1720,754 1711,881 1720,1153 797,1163"/>
+            <TextLine id="l" custom="readingOrder {index:0;} abbrev {offset:23; length:4;expansion:Königlichem;} split_word {offset:28; length:5; continued:true;}">
+                <Coords points="815,919 827,943 1028,879 1081,925 1094,901 1194,896 1289,890 1431,898 1688,889 1705,858 1705,828 1713,797 1642,763 1475,780 1266,789 933,811 876,795 822,834 810,889"/>
+                <Baseline points="815,919 950,895 1104,884 1302,874 1447,870 1588,857 1705,858"/>
+                <TextEquiv>
+                    <Unicode>Meinem Potschaffter an Kön. Hispa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;} split_word {offset:0; length:7; continued:true;}">
+                <Coords points="835,973 919,974 933,996 957,982 1105,982 1187,995 1253,1002 1379,986 1652,987 1654,943 1631,889 1486,902 1378,903 1321,941 1306,892 1236,898 1101,895 1078,923 1023,884 997,891 929,923 834,943"/>
+                <Baseline points="835,973 1040,968 1172,955 1319,971 1429,974 1654,973"/>
+                <TextEquiv>
+                    <Unicode>nischem Hoff Franzen eusebio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="842,1075 861,1114 965,1087 1269,1102 1459,1148 1534,1047 1503,1040 1433,981 1328,1005 1166,990 950,966 931,964 900,981 841,1045"/>
+                <Baseline points="842,1075 1033,1068 1275,1071 1503,1070"/>
+                <TextEquiv>
+                    <Unicode>Graven Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

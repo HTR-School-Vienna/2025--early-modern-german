@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T16:01:00.136+02:00</Created>
+        <LastChange>2025-11-08T15:52:48.915+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004672" pageNr="204" tsid="262037037" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PTZQZIPPWCEZDHNXFGETBFLZ" xmlUrl="https://files.transkribus.eu/Get?id=PFEJPVSZXMKFANECFPAEUFVG" imageId="87275790"/>
+    </Metadata>
+    <Page imageFilename="0204_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 237v.JPG" imageWidth="1944" imageHeight="2592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532897644" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="213,768 235,168 1147,114 1817,122 1853,663 1851,1677 129,1689"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="247,306 423,300 588,285 777,272 840,278 959,264 1020,244 1094,258 1168,275 1369,268 1514,242 1534,276 1615,301 1631,306 1739,311 1774,320 1786,283 1802,233 1746,181 1686,176 1639,151 1516,212 1390,201 1249,132 1088,172 988,177 917,146 781,212 612,160 469,165 394,233 351,217 278,242"/>
+                <Baseline points="285,301 421,278 596,264 782,253 972,248 1092,241 1388,246 1514,242 1637,266 1739,298 1776,311"/>
+                <TextEquiv>
+                    <Unicode>Vnd Also Kann mann Ia nit Von Ihm suspiciren. Ich schreibe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="286,386 375,396 522,379 650,405 795,360 919,382 1001,367 1150,355 1251,378 1332,400 1430,362 1484,377 1578,345 1681,395 1739,423 1742,426 1764,424 1808,427 1821,402 1792,383 1731,329 1691,333 1612,305 1569,299 1530,292 1437,262 1344,279 1317,316 1146,272 1026,250 1000,263 904,276 752,289 677,300 587,291 521,335 453,315 407,313 288,337"/>
+                <Baseline points="311,381 523,365 678,354 798,351 1005,347 1166,330 1316,346 1428,345 1578,345 1682,362 1785,412 1785,412 1784,412"/>
+                <TextEquiv>
+                    <Unicode>diß So ausfürlich, damit (si esset necesse) Ihr praeoccupiren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;} textStyle {offset:8; length:3;strikethrough}">
+                <Coords points="306,492 436,498 532,470 569,492 754,477 790,496 937,502 987,469 1017,506 1480,492 1503,514 1686,499 1750,506 1807,459 1717,430 1570,357 1491,407 1448,408 1262,408 1094,370 999,422 960,390 848,378 765,431 581,395 512,411 353,405 303,462"/>
+                <Baseline points="306,492 532,470 765,461 987,469 1503,468 1686,484 1750,506"/>
+                <TextEquiv>
+                    <Unicode>Konnen, daß dann Ich besorge, Es werden maine Eigne leütt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;} cipher {offset:44; length:2;decryption:Lamberg;}">
+                <Coords points="304,578 449,620 590,611 707,597 873,621 1024,586 1189,612 1292,586 1334,626 1562,626 1664,637 1712,620 1829,662 1839,634 1811,591 1717,566 1661,537 1597,519 1536,516 1380,506 1288,536 1247,499 1024,548 999,511 935,526 857,507 728,533 690,496 467,508 323,507 280,550"/>
+                <Baseline points="304,578 712,581 1024,578 1292,586 1564,597 1712,620 1829,662"/>
+                <TextEquiv>
+                    <Unicode>vill Sachen hievon spargiren et forsan Ipse BK, de quo vere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="262,668 543,686 666,675 687,698 812,669 831,696 871,681 995,697 1048,726 1150,699 1246,712 1333,708 1361,701 1376,747 1453,708 1572,724 1668,739 1736,730 1812,751 1845,682 1755,644 1667,639 1577,652 1549,629 1356,649 1330,617 1264,618 1072,605 962,626 902,612 822,602 679,595 653,616 489,616 279,631"/>
+                <Baseline points="278,661 666,675 868,674 1060,687 1332,696 1570,707 1736,724 1812,751"/>
+                <TextEquiv>
+                    <Unicode>non meretur souches. Basta, also gehet Es Zue. schließe hirmitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;} abbrev {offset:36; length:4;}">
+                <Coords points="237,774 572,777 617,779 791,763 915,785 1026,759 1101,767 1147,820 1238,779 1267,796 1465,788 1528,812 1712,814 1805,819 1809,789 1718,742 1533,736 1467,758 1419,736 1375,750 1354,712 1237,729 1155,700 1028,729 996,697 877,680 824,706 808,677 697,705 622,682 579,692 477,678 360,686 328,676 275,683 197,732"/>
+                <Baseline points="237,774 574,757 794,752 1026,759 1238,779 1465,788 1714,806 1805,819"/>
+                <TextEquiv>
+                    <Unicode>Vnd Verbleibe Euch mitt beharlichen Kay. hulden vnd genaden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:6;}">
+                <Coords points="806,854 780,852 660,909 621,890 553,905 437,847 343,884 304,840 304,810 391,777 490,759 593,765 772,806 806,805"/>
+                <Baseline points="304,840 771,836 806,838"/>
+                <TextEquiv>
+                    <Unicode>alzeitt Wolgwogen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:7;}">
+                <Coords points="320,970 453,1023 548,1026 650,1005 734,924 624,882 569,903 510,908 437,854 347,905 319,940"/>
+                <Baseline points="320,970 503,961 643,959"/>
+                <TextEquiv>
+                    <Unicode>Leopoldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:8;} abbrev {offset:7; length:3;} textStyle {offset:12; length:3;superscript} abbrev {offset:16; length:7;}">
+                <Coords points="942,881 908,801 1023,763 1102,765 1115,809 1169,827 1319,790 1468,790 1536,827 1575,811 1721,821 1803,845 1776,918 1732,934 1713,896 1677,884 1591,902 1545,873 1168,879"/>
+                <Baseline points="950,856 1172,855 1545,873 1763,910"/>
+                <TextEquiv>
+                    <Unicode>Wienn, den 2ten Septemb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:9;}">
+                <Coords points="1682,974 1744,989 1810,991 1811,922 1755,917 1698,922"/>
+                <Baseline points="1700,966 1747,973 1791,973"/>
+                <TextEquiv>
+                    <Unicode>1665</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:10;}">
+                <Coords points="212,1166 548,1175 702,1163 747,1202 1066,1172 1421,1183 1721,1196 1722,1234 1795,1209 1838,1120 1794,1098 1625,1070 1431,1110 1357,1095 1278,1083 1189,1100 1071,1111 917,1051 719,1103 650,1073 553,1071 478,1069 239,1113"/>
+                <Baseline points="236,1162 702,1163 1065,1161 1421,1166 1744,1172 1808,1176"/>
+                <TextEquiv>
+                    <Unicode>Main Reiß Solle noch (wann nichts anders darin Kombt)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:11;}">
+                <Coords points="256,1266 386,1277 436,1319 546,1307 603,1288 647,1315 699,1333 760,1278 912,1299 963,1322 1069,1289 1135,1305 1341,1287 1491,1300 1619,1287 1705,1297 1782,1280 1753,1249 1715,1242 1721,1202 1619,1209 1523,1204 1394,1213 1332,1219 1214,1203 1088,1202 959,1189 779,1222 736,1222 696,1177 411,1196 265,1183 232,1238"/>
+                <Baseline points="256,1266 760,1278 1069,1289 1342,1279 1619,1273 1739,1280"/>
+                <TextEquiv>
+                    <Unicode>Von Morgen acht Tag gwis vordtgehen. Wnd weillen Ihr Vor Einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:12;} unclear {offset:40; length:2;}">
+                <Coords points="238,1367 430,1404 587,1387 693,1403 960,1386 980,1405 1003,1432 1194,1401 1321,1401 1408,1388 1583,1408 1653,1380 1824,1424 1861,1339 1808,1306 1706,1301 1652,1331 1554,1300 1528,1301 1407,1296 1373,1313 1346,1313 1206,1302 1164,1335 1035,1300 972,1331 926,1313 780,1296 730,1303 667,1316 570,1307 544,1307 522,1321 441,1323 368,1279 290,1272 238,1300"/>
+                <Baseline points="238,1367 583,1373 1021,1374 1188,1389 1404,1373 1653,1380 1823,1401"/>
+                <TextEquiv>
+                    <Unicode>Zeitt mir geschriben, daß Ihr maindten, Er guette wahr, die Correspondenz mitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:13;}">
+                <Coords points="204,1457 409,1514 503,1510 611,1511 904,1502 1068,1500 1143,1542 1254,1558 1351,1562 1440,1571 1511,1532 1618,1567 1719,1568 1801,1590 1832,1564 1852,1502 1754,1442 1642,1475 1570,1426 1489,1428 1334,1432 1263,1402 1158,1439 906,1455 902,1395 604,1420 374,1414 258,1405 225,1425"/>
+                <Baseline points="238,1461 603,1485 905,1485 1161,1504 1347,1522 1511,1532 1631,1535 1726,1551 1832,1564"/>
+                <TextEquiv>
+                    <Unicode>mainer gespons Zu continuiren, also schikhe Ich hirbey Eins, welches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:14;} abbrev {offset:19; length:2;}">
+                <Coords points="213,1612 345,1653 606,1618 734,1649 880,1641 1145,1641 1417,1652 1612,1670 1833,1681 1830,1629 1799,1599 1626,1577 1537,1559 1420,1585 1231,1559 1160,1560 1105,1524 1066,1534 897,1553 848,1523 705,1516 606,1552 517,1513 416,1519 319,1496 220,1495"/>
+                <Baseline points="213,1612 604,1604 868,1602 1138,1614 1418,1636 1615,1643 1828,1659"/>
+                <TextEquiv>
+                    <Unicode>Ihr (si ita videbitur Reginae Et medinae vbrliffern Sollet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

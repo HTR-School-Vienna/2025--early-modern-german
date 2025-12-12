@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T16:00:22.266+02:00</Created>
+        <LastChange>2025-10-24T21:36:52.401+02:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004724" pageNr="157" tsid="262036906" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XCGDOTRMBBBRFGZVKXVNKJEJ" xmlUrl="https://files.transkribus.eu/Get?id=CRQJCEFMGVJBHGRUSTYTDJBX" imageId="87275739"/>
+    </Metadata>
+    <Page imageFilename="0157_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 199r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532882609" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1121,626 1104,1082 2091,1092 2088,632"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} split_word {offset:29; length:5; continued:true;}">
+                <Coords points="1149,791 1203,800 1249,777 1295,777 1340,779 1395,792 1432,782 1477,781 1523,776 1569,770 1615,766 1660,761 1706,759 1752,759 1797,757 1843,756 1890,773 1945,778 1980,776 2050,824 2072,774 2072,716 2059,686 2020,680 2015,649 1889,698 1843,698 1813,672 1752,701 1706,701 1660,703 1628,685 1592,679 1566,682 1517,685 1462,687 1387,666 1340,721 1295,719 1252,691 1189,685 1158,722"/>
+                <Baseline points="1158,761 1203,761 1249,758 1295,758 1342,758 1386,761 1432,763 1477,762 1523,757 1569,751 1615,747 1660,742 1706,740 1752,740 1797,738 1843,737 1889,737 1934,742 1980,757 2026,758 2072,755"/>
+                <TextEquiv>
+                    <Unicode>Meinem Pottschaffter an Kön. hispa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} split_word {offset:0; length:7; continued:true;}">
+                <Coords points="1137,864 1179,864 1208,907 1269,895 1308,876 1351,878 1394,879 1436,879 1479,879 1522,881 1565,880 1608,879 1651,880 1690,916 1736,881 1779,879 1822,880 1865,882 1908,884 1951,884 1994,884 1994,826 1970,802 1934,782 1865,824 1822,822 1812,794 1757,812 1730,776 1651,822 1664,753 1565,822 1522,823 1479,821 1445,803 1418,769 1351,820 1308,818 1282,770 1222,811 1179,806 1137,806"/>
+                <Baseline points="1137,845 1179,845 1222,850 1265,856 1308,857 1351,859 1394,860 1436,860 1479,860 1522,862 1565,861 1608,860 1651,861 1694,863 1736,862 1779,860 1822,861 1865,863 1908,865 1951,865 1994,865"/>
+                <TextEquiv>
+                    <Unicode>nischen hove Franzen Eusebio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1136,1047 1195,1013 1211,971 1240,971 1270,971 1299,971 1329,971 1358,970 1388,968 1417,966 1447,967 1474,1011 1506,967 1536,966 1565,1038 1605,1050 1664,1013 1677,982 1683,970 1713,971 1743,971 1743,913 1713,913 1683,912 1654,910 1624,908 1612,872 1562,885 1542,886 1514,870 1475,901 1447,909 1416,873 1375,879 1339,899 1329,913 1299,913 1270,913 1240,913 1211,913 1181,915 1152,919"/>
+                <Baseline points="1181,954 1211,952 1240,952 1270,952 1299,952 1329,952 1358,951 1388,949 1417,947 1447,948 1477,952 1506,948 1536,947 1565,949 1595,947 1624,947 1654,949 1683,951 1713,952 1751,954"/>
+                <TextEquiv>
+                    <Unicode>graven Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

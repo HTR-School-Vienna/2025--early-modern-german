@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.34.0:model_id=428693:lm=none:date=10_11_2025_01:11</Creator>
+        <Created>2025-10-07T15:59:47.421+02:00</Created>
+        <LastChange>2025-11-30T14:11:06.218+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004630" pageNr="108" tsid="263298512" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=DBTOXSQFJGKCXEORNODELQVI" xmlUrl="https://files.transkribus.eu/Get?id=YYZHLJNRGWYTFVIHVNKOCRVV" imageId="87275647"/>
+    </Metadata>
+    <Page imageFilename="0108_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 150v.JPG" imageWidth="1944" imageHeight="2592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532868585" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="243,142 173,1802 1865,1825 1841,157"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} unclear {offset:52; length:4;} add {offset:66; length:3;}">
+                <Coords points="364,279 442,304 812,277 845,315 969,286 1200,324 1623,294 1811,351 1811,284 1434,201 1242,260 1095,215 824,219 491,200 364,239"/>
+                <Baseline points="374,278 446,275 518,278 590,278 662,281 734,282 806,284 878,286 950,286 1022,285 1095,286 1167,286 1239,286 1311,286 1383,291 1455,288 1527,295 1599,298 1671,301 1743,313 1816,332"/>
+                <TextEquiv>
+                    <Unicode>durch dises wurde Vnser hauß Interssesse recht fest gezt. Non nocebit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;} textStyle {offset:38; length:8;strikethrough}">
+                <Coords points="1472,386 339,381 338,320 658,290 863,345 885,308 939,290 1228,325 1272,349 1343,299 1361,308 1342,342 1393,323 1420,336 1510,322"/>
+                <Baseline points="348,364 420,362 493,362 566,364 639,362 712,362 785,363 858,370 931,372 1004,370 1077,370 1149,370 1222,370 1295,370 1368,372 1462,376"/>
+                <TextEquiv>
+                    <Unicode>si data bona occasion Ihr Etwaß davon tochirdt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="1263,339 1289,353 1358,339 1423,337 1457,338 1507,343 1502,313 1470,305 1407,298 1392,278 1356,299 1319,281 1263,315"/>
+                <Baseline points="1274,330 1299,330 1325,330 1351,330 1377,330 1402,330 1428,330 1454,330 1480,332 1495,334"/>
+                <TextEquiv>
+                    <Unicode>tochieren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:3;}">
+                <Coords points="1506,330 1652,313 1817,349 1801,423 1741,432 1506,383"/>
+                <Baseline points="1506,380 1514,380 1587,382 1660,385 1733,399 1806,414"/>
+                <TextEquiv>
+                    <Unicode>si vobis Ita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;} abbrev {offset:7; length:2;} textStyle {offset:11; length:6;strikethrough}">
+                <Coords points="307,466 641,518 699,489 878,487 1397,485 1695,544 1794,491 1769,476 1583,417 1459,416 1020,375 819,408 419,370 305,430"/>
+                <Baseline points="318,454 390,454 463,456 536,465 609,462 682,460 754,460 827,460 900,458 973,458 1046,458 1118,460 1191,462 1264,463 1337,466 1410,464 1482,467 1555,473 1628,483 1701,493 1774,504"/>
+                <TextEquiv>
+                    <Unicode>viDebitur. hiebey weillen In Vnser Ziffer off nomina principum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;} unclear {offset:0; length:2;} split_word {offset:56; length:3; continued:true;}">
+                <Coords points="326,592 1573,593 1832,653 1828,569 1756,544 1388,466 1295,506 1062,470 804,495 692,491 550,535 470,491 324,508"/>
+                <Baseline points="336,558 410,559 484,562 558,565 632,566 707,564 781,562 855,561 929,558 1003,560 1078,558 1152,562 1226,561 1300,562 1374,566 1449,568 1523,573 1597,580 1671,588 1745,602 1820,624"/>
+                <TextEquiv>
+                    <Unicode>ut et alia Einkomben, also habe Ich diß beyligende nota auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:6;} textStyle {offset:0; length:9;strikethrough} split_word {offset:0; length:9; continued:true;}">
+                <Coords points="564,694 468,701 309,681 310,632 351,619 464,610 568,624"/>
+                <Baseline points="358,665 427,660 496,664 565,663"/>
+                <TextEquiv>
+                    <Unicode>gezet gez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:7;} split_word {offset:0; length:6; continued:true;}">
+                <Coords points="359,650 454,637 519,636 534,579 462,576 366,592"/>
+                <Baseline points="365,622 452,626 519,625"/>
+                <TextEquiv>
+                    <Unicode>geSezt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:8;}">
+                <Coords points="582,599 984,581 1051,573 1194,589 1429,586 1739,633 1739,702 1612,689 1504,666 577,697"/>
+                <Baseline points="571,663 635,660 704,657 773,656 843,654 912,653 981,653 1051,652 1120,651 1189,648 1258,648 1328,651 1397,655 1466,660 1536,668 1605,674 1674,683 1744,694"/>
+                <TextEquiv>
+                    <Unicode>die Zeitt Zu winn vnd die wordter zu sparen. Ist nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:9;}">
+                <Coords points="317,757 512,815 1403,777 1799,837 1775,717 1650,710 1312,671 1164,687 1124,722 894,690 438,683 315,700"/>
+                <Baseline points="328,752 400,755 473,762 545,760 618,759 691,756 763,759 836,758 908,757 981,758 1054,754 1126,756 1199,752 1271,752 1344,752 1417,759 1489,765 1562,775 1634,787 1707,798 1780,806"/>
+                <TextEquiv>
+                    <Unicode>dabey zu merkhen, daß Es alles muessen Maiuskulae. Causa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:10;} split_word {offset:52; length:5; continued:true;}">
+                <Coords points="311,868 384,884 841,875 889,893 1219,908 1445,874 1811,946 1809,870 1752,842 1407,779 1272,836 1120,799 878,789 778,786 442,793 311,836"/>
+                <Baseline points="322,856 396,857 471,858 545,854 620,850 695,851 769,854 844,856 918,858 993,858 1068,856 1142,855 1217,856 1291,861 1366,867 1441,873 1515,880 1590,887 1664,897 1739,911 1814,934"/>
+                <TextEquiv>
+                    <Unicode>est, weillen Sein Kundte, daß mann Sich der Kleinen buech</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:11;} split_word {offset:0; length:6; continued:true;} add {offset:61; length:5;}">
+                <Coords points="320,973 415,941 516,961 751,971 1234,981 1830,1036 1831,984 1811,952 1563,893 1227,942 1145,891 905,905 753,870 317,870"/>
+                <Baseline points="330,952 404,942 479,942 553,942 628,946 702,949 777,954 851,955 926,956 1000,957 1075,956 1149,957 1224,960 1298,965 1373,970 1447,972 1522,974 1596,981 1671,994 1745,1009 1820,1026"/>
+                <TextEquiv>
+                    <Unicode>Staben In der Ziffer Selbst bedinen mochten. Fallen Euch Villeicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:12;}">
+                <Coords points="299,1032 533,1047 685,1042 775,1089 892,1049 1282,1047 1483,1083 1589,1092 1669,1087 1813,1098 1821,1054 1809,1037 1640,1043 1545,988 1228,979 1152,966 996,981 908,1011 728,963 298,958"/>
+                <Baseline points="310,1014 385,1009 460,1012 535,1017 611,1024 686,1027 761,1032 837,1034 912,1034 987,1039 1063,1044 1138,1048 1213,1048 1288,1048 1364,1052 1439,1061 1514,1066 1590,1071 1665,1081 1740,1089 1816,1100"/>
+                <TextEquiv>
+                    <Unicode>noch Etliche nothwenidige wordte Ein, So Köndt Ihr mir Selbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:13;}">
+                <Coords points="277,1109 479,1160 655,1132 1771,1204 1806,1185 1765,1104 1610,1134 1438,1080 903,1038 808,1058 666,1039 540,1048 531,1018 271,1035"/>
+                <Baseline points="286,1098 360,1094 435,1098 509,1108 584,1116 658,1121 733,1122 807,1125 882,1128 956,1132 1031,1134 1105,1140 1180,1142 1254,1147 1329,1152 1403,1154 1478,1159 1552,1167 1627,1176 1701,1187 1776,1198"/>
+                <TextEquiv>
+                    <Unicode>zuschikhen vnd Von DA anheben. Weilln auch ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:14;}">
+                <Coords points="275,1223 745,1231 799,1241 941,1246 1022,1215 1198,1260 1307,1229 1797,1318 1823,1280 1790,1202 1688,1217 1561,1166 1221,1150 980,1144 814,1122 700,1143 484,1155 366,1119 269,1117"/>
+                <Baseline points="284,1196 359,1192 435,1196 511,1199 586,1202 662,1205 738,1206 813,1209 889,1210 965,1210 1041,1214 1116,1221 1160,1226 1192,1227 1268,1228 1343,1230 1419,1234 1495,1241 1570,1248 1646,1256 1722,1270 1798,1292"/>
+                <TextEquiv>
+                    <Unicode>Zweiffel der Fürst Von portia Euch In allen disen materis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:15;}">
+                <Coords points="290,1314 487,1301 513,1329 563,1353 740,1308 1271,1350 1720,1367 1815,1403 1813,1328 1590,1266 1328,1237 286,1223"/>
+                <Baseline points="298,1280 373,1288 449,1294 524,1298 600,1302 675,1307 751,1306 826,1309 902,1312 977,1313 1053,1312 1128,1315 1204,1318 1279,1323 1355,1322 1430,1325 1506,1334 1581,1338 1657,1346 1732,1361 1808,1378"/>
+                <TextEquiv>
+                    <Unicode>ausfurlich schreiben wirdt, also thue Ich mich In allen darauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:16;} abbrev {offset:45; length:3;expansion:keyserlichen;}">
+                <Coords points="294,1407 400,1441 1012,1432 1795,1464 1777,1377 1379,1336 982,1318 694,1333 587,1314 543,1349 465,1333 368,1310 292,1339"/>
+                <Baseline points="304,1396 378,1400 452,1404 526,1409 600,1410 674,1412 748,1410 822,1410 896,1410 970,1408 1044,1408 1118,1406 1192,1407 1266,1412 1340,1413 1414,1418 1488,1421 1562,1426 1636,1432 1710,1443 1784,1458"/>
+                <TextEquiv>
+                    <Unicode>beziehen vnd Verbleibe Euch Mitt bestendigen Key. hulden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:17;}">
+                <Coords points="1166,1542 1123,1538 1060,1579 965,1583 836,1526 702,1564 499,1506 376,1545 283,1495 269,1508 267,1518 265,1562 277,1456 357,1433 800,1475 946,1453 1166,1481"/>
+                <Baseline points="290,1480 365,1488 441,1498 517,1504 593,1512 669,1519 744,1522 820,1524 896,1524 972,1524 1048,1528 1123,1535 1166,1539"/>
+                <TextEquiv>
+                    <Unicode>vnd genaden alzeitt wol gwogen </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:18;}">
+                <Coords points="222,1642 330,1642 370,1675 581,1713 639,1579 554,1574 510,1600 472,1585 425,1597 404,1585 451,1524 423,1504 348,1535 311,1508 267,1589 288,1595 220,1597"/>
+                <Baseline points="232,1634 257,1634 283,1632 308,1631 334,1629 360,1628 385,1628 411,1628 437,1630 462,1631 488,1636 514,1641 539,1645 565,1648 591,1650"/>
+                <TextEquiv>
+                    <Unicode>Leopoldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:19;} abbrev {offset:12; length:3;}">
+                <Coords points="1255,1560 1289,1496 1398,1437 1458,1481 1511,1443 1829,1485 1821,1582 1489,1536 1440,1566"/>
+                <Baseline points="1275,1540 1351,1533 1427,1528 1502,1530 1578,1536 1654,1542 1730,1550 1806,1566"/>
+                <TextEquiv>
+                    <Unicode>Eberstorff, den Ersten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:20;} abbrev {offset:0; length:3;}">
+                <Coords points="1585,1629 1665,1644 1714,1663 1754,1654 1790,1665 1825,1677 1825,1579 1775,1585 1652,1545 1631,1570 1606,1559 1523,1601"/>
+                <Baseline points="1570,1606 1597,1609 1623,1613 1650,1619 1677,1628 1703,1636 1730,1643 1756,1646 1783,1650 1807,1658"/>
+                <TextEquiv>
+                    <Unicode>8b. 1664</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

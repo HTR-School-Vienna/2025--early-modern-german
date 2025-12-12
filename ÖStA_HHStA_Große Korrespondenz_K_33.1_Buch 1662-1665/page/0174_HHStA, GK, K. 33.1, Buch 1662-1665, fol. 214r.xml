@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.34.0:model_id=431093:lm=none:date=13_11_2025_22:54</Creator>
+        <Created>2025-10-07T16:00:37.631+02:00</Created>
+        <LastChange>2025-11-23T10:42:12.544+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004705" pageNr="174" tsid="262445082" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PEEKQIUZLLZOZWFRBKWZMAZH" xmlUrl="https://files.transkribus.eu/Get?id=FIEFJAKIDYNSMSHZRNRUZKBG" imageId="87275773"/>
+    </Metadata>
+    <Page imageFilename="0174_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 214r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532887413" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="1708,0 1708,61 1800,61 1800,0"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="627,476 612,1031 1759,1020 1752,471"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="692,538 690,577 720,597 728,615 711,632 694,641 673,641 666,653 670,677 713,681 747,635 883,632 917,643 945,686 978,635 986,661 1039,653 1064,632 1078,656 1144,628 1433,635 1410,693 1439,723 1476,715 1515,662 1581,637 1627,621 1693,628 1723,614 1687,575 1695,514 1603,501 1465,497 1356,513 1270,582 1242,566 1218,569 1170,572 1175,531 1155,516 1112,558 1091,522 1067,520 1044,554 1009,544 980,532 924,566 896,578 861,576 830,571 822,542 753,521 696,516"/>
+                <Baseline points="701,636 750,628 800,621 850,618 900,615 949,615 999,615 1049,615 1099,615 1148,615 1198,615 1248,612 1298,615 1347,616 1397,617 1447,615 1497,617 1546,616 1596,615 1646,615 1696,615"/>
+                <TextEquiv>
+                    <Unicode>Meinem Potschaffter an des Konigs In</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} abbrev {offset:10; length:7;}">
+                <Coords points="692,736 673,798 812,797 882,750 978,754 1000,768 1062,763 1211,761 1329,754 1360,757 1346,860 1378,841 1432,760 1469,754 1528,759 1539,809 1577,792 1593,775 1698,745 1619,712 1635,679 1642,659 1564,697 1498,703 1504,649 1468,661 1443,686 1405,734 1289,690 1248,652 1199,678 1138,666 1103,636 1078,642 1022,697 947,723 881,688 823,659 798,631 724,639 706,689"/>
+                <Baseline points="680,773 729,766 779,758 829,755 879,751 929,749 979,749 1029,749 1079,749 1129,751 1179,752 1228,752 1278,755 1328,752 1378,753 1428,755 1478,753 1528,754 1578,757 1628,758 1678,755"/>
+                <TextEquiv>
+                    <Unicode>Hispanien Liebden Hove Franzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="693,849 676,902 817,898 890,944 917,977 1004,901 1059,885 1190,894 1271,896 1272,924 1337,955 1379,933 1459,942 1458,1018 1500,1018 1615,915 1618,860 1562,840 1533,816 1540,781 1545,763 1466,802 1437,832 1398,802 1316,798 1294,846 1251,847 1253,798 1223,788 1128,837 1011,820 917,824 909,779 852,813 812,819 763,822 781,781 755,777 712,799 705,817"/>
+                <Baseline points="683,886 729,883 776,880 823,880 870,877 916,877 963,877 1010,877 1057,877 1103,877 1150,878 1197,880 1244,882 1290,885 1337,890 1384,894 1431,903 1477,905 1524,904 1571,904 1618,901"/>
+                <TextEquiv>
+                    <Unicode>Eusebio graven Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Meinem Potschaffter an des Konigs In
+Hispanien liebden Hofe Franzen
+Eusebius graven Von Pötting</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

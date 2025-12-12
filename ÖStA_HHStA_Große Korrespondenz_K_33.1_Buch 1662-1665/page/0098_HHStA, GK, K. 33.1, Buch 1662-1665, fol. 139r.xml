@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T15:59:41.159+02:00</Created>
+        <LastChange>2025-12-06T00:18:54.198+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004587" pageNr="98" tsid="264040385" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BKBIAVYRBQILVJEUNNIJDSPR" xmlUrl="https://files.transkribus.eu/Get?id=MTSLDBNDMBNRLLMTHRMNTTTL" imageId="87275039"/>
+    </Metadata>
+    <Page imageFilename="0098_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 139r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532865411" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="658,467 1688,467 1688,878 658,878"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="695,657 807,656 826,676 896,642 946,650 1047,647 1143,646 1182,640 1240,660 1297,642 1348,646 1420,646 1517,634 1562,614 1549,538 1499,523 1418,552 1375,575 1328,495 1162,555 995,566 901,516 834,553 799,514 693,510"/>
+                <Baseline points="706,641 796,635 892,633 953,634 1053,634 1125,630 1182,634 1270,634 1359,637 1422,637 1522,625 1558,614"/>
+                <TextEquiv>
+                    <Unicode>An Franz eusebium Graven Von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="673,663 680,736 804,748 909,723 940,759 997,721 1076,745 1140,740 1189,743 1291,719 1338,729 1423,725 1479,730 1549,730 1615,734 1649,727 1669,628 1624,634 1574,610 1482,644 1436,640 1360,677 1283,649 1204,675 1183,651 1069,650 990,652 951,668 910,647 826,688 817,645 768,665"/>
+                <Baseline points="717,727 821,726 909,723 995,713 1079,712 1179,712 1293,711 1362,707 1447,700 1494,700 1578,700 1631,710 1653,717"/>
+                <TextEquiv>
+                    <Unicode>Potting, Potschaffter an des Konigs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;} abbrev {offset:13; length:7;}">
+                <Coords points="675,832 805,827 887,827 986,828 1068,831 1157,821 1263,815 1295,810 1297,707 1255,725 1197,718 1157,741 1112,743 1079,708 990,748 929,732 870,724 809,758 797,736 771,708 716,710 675,741"/>
+                <Baseline points="710,801 811,798 912,795 992,795 1092,790 1160,788 1269,784 1294,784"/>
+                <TextEquiv>
+                    <Unicode>In hispanien Liebden hoff.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

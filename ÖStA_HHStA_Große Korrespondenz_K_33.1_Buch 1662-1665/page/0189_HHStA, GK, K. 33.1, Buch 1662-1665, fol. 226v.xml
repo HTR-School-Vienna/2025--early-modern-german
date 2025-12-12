@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.33.0:model_id=309593:date=04_11_2025_23:43</Creator>
+        <Created>2025-10-07T16:00:50.203+02:00</Created>
+        <LastChange>2025-12-09T20:24:49.753+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004713" pageNr="189" tsid="264598237" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LYUOFHLPZXAGYQREFXBCOPPD" xmlUrl="https://files.transkribus.eu/Get?id=QPMXDNLJVNHVRQGRAEABGUIG" imageId="87275780"/>
+    </Metadata>
+    <Page imageFilename="0189_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 226v.JPG" imageWidth="1944" imageHeight="2592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532892490" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="211,107 219,2339 1897,2346 1890,94"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="271,321 1136,255 1423,237 1770,249 1811,133 1376,154 1302,117 941,179 851,135 648,171 449,162 327,191"/>
+                <Baseline points="334,284 405,273 476,270 548,267 619,262 691,260 762,257 833,250 905,247 976,244 1048,238 1119,233 1190,228 1262,223 1333,217 1405,212 1476,211 1547,210 1619,214 1690,219 1762,228"/>
+                <TextEquiv>
+                    <Unicode>Ich Stelle aber Euch alles zu Euer discretion vnd erindere Euch nochmals das secreti. mitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} cipher {offset:20; length:2;decryption:Auersperg;} cipher {offset:68; length:2;decryption:Pötting;} cipher {offset:71; length:12;decryption:bei;}">
+                <Coords points="279,394 480,369 624,380 688,355 1121,351 1567,322 1833,360 1848,264 1577,220 849,265 785,261 700,269 535,286 376,294 265,308"/>
+                <Baseline points="292,356 368,350 444,344 521,342 597,340 674,337 750,333 826,330 903,325 979,322 1056,319 1132,314 1208,310 1285,304 1361,299 1438,295 1514,292 1590,295 1667,302 1743,315 1820,338"/>
+                <TextEquiv>
+                    <Unicode>dieser occasion des Bf machinen, maine ich, Sey Sehr notwendig, daß BL 21 12 13 658</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} cipher {offset:0; length:2;decryption:camarera\u0020mayor;} cipher {offset:4; length:2;decryption:Guarda\u0020mayor;} cipher {offset:8; length:2;decryption:Seňora\u0020de\u0020honor;} cipher {offset:12; length:76;decryption:preocupire\u0020das\u0020sie\u0020sich\u0020von;} textStyle {offset:33; length:2;superscript} corrected {offset:37; length:1;} cipher {offset:89; length:2;decryption:Auersperg;} cipher {offset:92; length:2;}">
+                <Coords points="271,458 762,456 922,474 994,440 1333,436 1503,437 1769,487 1818,472 1846,402 1607,352 1426,370 1358,365 904,357 655,390 481,345 271,401"/>
+                <Baseline points="282,446 359,442 436,437 513,429 590,430 667,427 744,426 821,423 898,425 975,420 1053,418 1130,414 1207,415 1284,412 1361,410 1438,410 1515,411 1592,415 1669,423 1746,431 1824,442"/>
+                <TextEquiv>
+                    <Unicode>DD, DE, Df, 21 24 12 14 42 44 21 13 24 12 06 41 11 34 34 13 12 0 34 13 42 31 68 44 14 43 Bf 89</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} cipher {offset:0; length:70;decryption:nit\u0020lassen\u0020einnemen\u0020gar;} corrected {offset:27; length:1;}">
+                <Coords points="308,534 1519,541 1844,590 1866,571 1842,522 1723,466 1464,487 1256,435 1119,481 306,460"/>
+                <Baseline points="318,512 394,510 471,510 547,510 624,514 700,514 777,517 853,518 930,519 1006,520 1083,520 1159,516 1236,516 1312,514 1389,512 1465,514 1542,518 1618,523 1695,533 1771,551 1848,576"/>
+                <TextEquiv>
+                    <Unicode>43 13 41 06 23 11 34 8 34 12 43 12 13 43 43 13 33 12 43 06 32 11 24 78</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;} cipher {offset:0; length:70;decryption:zue\u0020grosse\u0020confidenz\u0020mit;} corrected {offset:21; length:1;} cipher {offset:71; length:2;decryption:Auersperg;} cipher {offset:74; length:17;decryption:wurde;} corrected {offset:84; length:3;}">
+                <Coords points="312,594 686,618 1580,627 1725,671 1845,676 1864,614 1559,533 1265,581 310,530"/>
+                <Baseline points="322,578 398,578 474,578 550,580 626,582 703,584 779,586 855,590 931,594 1007,598 1084,604 1160,602 1236,602 1312,604 1388,605 1465,606 1541,608 1617,614 1693,632 1769,650 1846,670"/>
+                <TextEquiv>
+                    <Unicode>42 44 12 0 32 24 14 34 34 12 42 14 34 22 13 41 12 34 42 0 33 13 41 685 Bf 21 44 24 41 12 06</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} cipher {offset:0; length:2;decryption:Kaiser;} cipher {offset:3; length:49;decryption:gar\u0020nitt\u0020gefallen;} corrected {offset:50; length:1;} textStyle {offset:55; length:1;superscript}">
+                <Coords points="277,670 363,689 902,668 1104,741 1180,708 1373,700 1409,721 1471,698 1705,725 1749,753 1822,737 1820,661 1701,630 1577,610 1449,612 1233,631 382,596 277,647"/>
+                <Baseline points="288,664 364,660 441,656 518,652 595,654 672,656 749,659 826,662 903,669 980,674 1057,683 1133,682 1210,683 1287,687 1364,686 1441,688 1518,686 1595,689 1672,700 1749,712 1826,732"/>
+                <TextEquiv>
+                    <Unicode>Af 32 11 24 41 13 41 06 32 12 22 11 23 8 23 12 43 69. 8o bin Ich gebetten der Khurfürstin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="286,766 628,757 774,764 1059,760 1171,742 1485,790 1583,760 1700,799 1850,815 1838,773 1816,733 1686,696 1566,680 1473,688 1141,695 1050,680 984,705 818,663 285,672"/>
+                <Baseline points="298,744 374,740 450,738 526,736 603,734 679,737 755,738 832,742 908,741 984,744 1061,744 1137,746 1213,742 1289,742 1366,744 1442,748 1518,750 1595,756 1671,767 1747,780 1824,796"/>
+                <TextEquiv>
+                    <Unicode>praetension nochmalls Euch zu reccommendiren. mir wurde wol Ein sonderliches gefallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="279,854 398,845 520,819 641,834 764,847 800,814 1066,822 1082,853 1409,845 1874,877 1860,845 1834,811 1665,780 1517,741 1454,766 1371,755 1253,746 997,736 409,744 275,774"/>
+                <Baseline points="288,826 365,811 443,804 520,804 598,802 676,802 753,805 831,804 908,805 986,806 1064,810 1141,817 1219,818 1296,818 1374,818 1452,826 1529,831 1607,836 1684,844 1762,857 1840,870"/>
+                <TextEquiv>
+                    <Unicode>geschehen, wann der guetten Frawen Kundte geholfen werden. In simili reccomendire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="281,922 407,926 1103,906 1237,926 1427,942 1494,909 1576,936 1844,945 1861,910 1842,875 1757,848 1525,821 1423,820 1136,831 932,805 281,844"/>
+                <Baseline points="292,910 369,897 447,888 525,882 603,882 681,882 758,882 836,882 914,883 992,881 1070,884 1147,887 1225,886 1303,887 1381,886 1459,890 1536,893 1614,896 1692,903 1770,918 1848,940"/>
+                <TextEquiv>
+                    <Unicode>Ich bey diser occasion Regi chatolico den bischoff von Freising, So des aldten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="279,1011 597,972 729,1018 876,992 1840,1017 1861,986 1838,945 1545,897 1427,929 1339,893 1257,932 1093,887 837,897 750,902 719,876 660,895 592,896 477,901 353,896 277,947"/>
+                <Baseline points="288,990 365,976 443,972 521,966 599,965 677,964 754,963 832,962 910,966 988,965 1066,966 1143,966 1221,966 1299,965 1377,967 1455,972 1532,976 1610,982 1688,989 1766,997 1844,1008"/>
+                <TextEquiv>
+                    <Unicode>herzogs Albrechts In bayrn filius natus minor, welcher Etwas Erschnapfen woldte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;} abbrev {offset:8; length:9;} abbrev {offset:18; length:5;}">
+                <Coords points="286,1072 561,1100 698,1087 932,1070 1008,1124 1359,1078 1545,1113 1611,1072 1812,1083 1832,1063 1797,1025 1783,979 1604,988 1535,987 1132,970 898,993 567,965 355,988 286,1015"/>
+                <Baseline points="298,1056 373,1053 448,1054 523,1059 598,1068 674,1065 716,1060 749,1062 824,1065 899,1066 974,1068 1050,1068 1125,1069 1200,1070 1275,1068 1350,1068 1426,1066 1501,1064 1576,1064 1651,1064 1726,1067 1802,1074"/>
+                <TextEquiv>
+                    <Unicode>Von des Erzherzog Seel. sicilianischen pensionen. Valeat, quantum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="284,1131 428,1166 681,1165 848,1171 949,1195 1013,1193 1067,1159 1179,1163 1280,1178 1594,1165 1680,1186 1844,1177 1876,1117 1842,1078 1744,1066 1610,1064 1035,1076 928,1068 636,1060 399,1046 287,1071"/>
+                <Baseline points="292,1118 369,1119 447,1126 525,1137 603,1138 681,1140 758,1140 836,1142 914,1143 992,1146 1070,1148 1147,1149 1225,1152 1303,1148 1381,1150 1459,1148 1536,1150 1614,1154 1692,1158 1770,1161 1848,1170"/>
+                <TextEquiv>
+                    <Unicode>valere potest, Ich thue Es nur, mich zu sbigieren. Sonsten befinde Ich mich Gott lob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;} textStyle {offset:59; length:1;strikethrough} textStyle {offset:60; length:3;superscript}">
+                <Coords points="291,1257 499,1251 609,1238 679,1233 788,1280 834,1247 1024,1240 1252,1265 1319,1241 1431,1275 1610,1249 1845,1261 1864,1204 1844,1179 1737,1171 1604,1154 1193,1142 1075,1156 998,1169 872,1138 281,1124"/>
+                <Baseline points="292,1200 369,1199 447,1206 525,1210 603,1211 681,1218 759,1220 837,1222 915,1224 993,1226 1071,1224 1148,1224 1226,1227 1304,1234 1382,1234 1460,1238 1538,1238 1616,1238 1694,1238 1772,1238 1850,1246"/>
+                <TextEquiv>
+                    <Unicode>bey guetter gesondheit. der Ferdinandt Von harrach Ist den 810. diß abents vmb </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="273,1313 641,1341 711,1294 758,1314 891,1302 1094,1337 1247,1348 1462,1348 1600,1359 1805,1335 1803,1267 1721,1240 1456,1263 1319,1241 1147,1219 1045,1228 692,1209 453,1220 318,1247"/>
+                <Baseline points="330,1290 404,1291 478,1292 552,1289 626,1288 700,1289 774,1292 848,1298 922,1301 996,1302 1070,1300 1144,1300 1218,1309 1292,1312 1366,1314 1440,1316 1514,1319 1588,1322 1662,1322 1736,1322 1810,1326"/>
+                <TextEquiv>
+                    <Unicode>4 Vhr von hir abgraist. Wird vor disen schon darinnen angelangt Sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="286,1389 364,1393 474,1417 526,1416 661,1400 889,1440 966,1412 1150,1439 1412,1414 1587,1422 1826,1425 1797,1391 1741,1353 1440,1313 1339,1330 1201,1323 1168,1321 854,1301 711,1294 635,1333 576,1297 535,1311 364,1301 285,1323"/>
+                <Baseline points="298,1366 373,1365 448,1368 523,1370 598,1370 673,1373 748,1374 823,1381 898,1382 973,1385 1049,1386 1124,1388 1199,1392 1274,1397 1349,1398 1424,1401 1499,1406 1574,1410 1649,1410 1724,1413 1800,1422"/>
+                <TextEquiv>
+                    <Unicode>utinam podiesse trocar las joyas con la joya mas linda del Universo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="286,1475 482,1489 527,1522 618,1493 848,1508 1285,1488 1833,1524 1816,1458 1631,1413 1573,1398 1374,1407 1249,1407 1097,1409 1001,1390 810,1411 664,1372 620,1388 509,1440 494,1396 398,1380 285,1399"/>
+                <Baseline points="296,1458 372,1456 448,1458 524,1460 601,1462 677,1464 753,1468 830,1472 906,1475 982,1474 1059,1478 1135,1474 1211,1470 1287,1470 1364,1469 1440,1472 1516,1476 1593,1480 1669,1486 1745,1495 1822,1502"/>
+                <TextEquiv>
+                    <Unicode>significo my unica margarita. DEUS omnia dabit, In Illum spero, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;} abbrev {offset:59; length:4;expansion:kaserlichen;}">
+                <Coords points="290,1540 1501,1592 1628,1633 1849,1612 1865,1572 1845,1508 1536,1477 1292,1465 1013,1473 840,1500 692,1471 569,1485 288,1479"/>
+                <Baseline points="300,1534 377,1527 455,1532 533,1536 610,1537 688,1542 766,1549 843,1554 921,1559 999,1561 1077,1558 1154,1557 1232,1560 1310,1557 1387,1554 1465,1556 1543,1561 1620,1566 1698,1574 1776,1586 1854,1606"/>
+                <TextEquiv>
+                    <Unicode>tamen non sine timore. Vnd Verbleibe Euch mitt beharlichen Kay. hulden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="288,1645 349,1647 388,1676 448,1645 590,1638 583,1668 618,1723 738,1717 873,1658 850,1559 766,1575 717,1549 633,1586 529,1513 468,1569 396,1536 285,1551"/>
+                <Baseline points="298,1616 326,1614 355,1614 384,1616 413,1618 442,1620 471,1622 500,1625 529,1627 558,1629 587,1631 615,1632 644,1632 673,1633 702,1634 731,1635 760,1637 789,1639 818,1640 847,1641"/>
+                <TextEquiv>
+                    <Unicode>vnd genaden wolgwogen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="487,1797 522,1787 561,1814 592,1787 606,1801 629,1793 645,1806 670,1789 750,1806 750,1658 715,1670 696,1662 672,1680 625,1696 596,1627 492,1648 386,1766 389,1792"/>
+                <Baseline points="432,1792 523,1750 549,1751 575,1751 601,1751 627,1752 652,1752 678,1750 704,1752"/>
+                <TextEquiv>
+                    <Unicode>Leopoldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:19;} abbrev {offset:7; length:3;}">
+                <Coords points="1008,1684 1306,1651 1433,1718 1487,1662 1551,1707 1639,1695 1639,1578 1525,1578 1454,1567 1352,1602 1292,1557 1212,1612 1115,1563 1008,1582"/>
+                <Baseline points="1018,1666 1049,1660 1080,1657 1111,1652 1143,1649 1174,1648 1205,1648 1237,1649 1268,1650 1299,1650 1331,1649 1362,1648 1393,1648 1424,1649 1456,1651 1487,1652 1518,1654 1550,1656 1581,1656 1612,1662 1644,1662"/>
+                <TextEquiv>
+                    <Unicode>Wienn, den 21. Julii 1668</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="712,1943 823,1917 887,1904 905,1797 861,1799 828,1787 799,1791"/>
+                <Baseline points="753,1914 828,1879 851,1875"/>
+                <TextEquiv>
+                    <Unicode>P.S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;} cipher {offset:0; length:2;decryption:Pötting;} cipher {offset:3; length:35;decryption:solle\u0020im\u0020namen;} cipher {offset:39; length:2;decryption:Kaiser;} cipher {offset:42; length:2;decryption:Medina;} cipher {offset:45; length:32;decryption:danken;} add {offset:75; length:2;}">
+                <Coords points="311,2003 337,2060 643,2073 1826,2142 1844,2093 1820,2040 1608,1996 1419,2036 1202,1994 752,2013 327,1918"/>
+                <Baseline points="346,2024 420,2020 494,2026 568,2028 642,2034 717,2043 791,2052 865,2060 939,2064 1013,2071 1088,2079 1162,2086 1236,2091 1310,2093 1384,2095 1459,2094 1533,2099 1607,2104 1681,2111 1755,2120 1830,2130"/>
+                <TextEquiv>
+                    <Unicode>BL 34 14 23 23 12 13 43 43 11 33 12 43 AF BN 41 11 43 42 31 12 43 14 21 43 14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;} cipher {offset:0; length:43;decryption:titias\u0020wegen\u0020des;} corrected {offset:35; length:1;} cipher {offset:44; length:2;decryption:Auersperg;} cipher {offset:66; length:15;decryption:auch;} corrected {offset:66; length:1;}">
+                <Coords points="353,2095 1072,2155 1146,2202 1512,2186 1757,2259 1830,2220 1847,2148 1614,2165 1514,2110 350,2046"/>
+                <Baseline points="362,2082 435,2087 508,2094 582,2099 655,2106 729,2113 802,2122 875,2134 949,2141 1022,2150 1096,2158 1169,2168 1242,2175 1316,2176 1389,2178 1463,2179 1536,2186 1609,2195 1683,2204 1756,2208 1830,2212"/>
+                <TextEquiv>
+                    <Unicode>41 13 4113 11 34 21 12 32 12 43 41 12 34 06 Bf et sic de caeteri, 11 44 42 31 069</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;} cipher {offset:0; length:38;decryption:ihn\u0020des\u0020secreti;}">
+                <Coords points="337,2179 527,2214 1007,2253 1119,2276 1234,2338 1594,2333 1580,2200 1510,2186 1124,2163 877,2144 329,2101"/>
+                <Baseline points="346,2160 408,2162 470,2167 532,2172 595,2180 657,2186 719,2187 782,2195 844,2202 906,2211 969,2219 1031,2226 1093,2234 1155,2240 1218,2248 1280,2250 1342,2254 1405,2259 1467,2265 1529,2272 1592,2280"/>
+                <TextEquiv>
+                    <Unicode>13 31 43 41 12 34 34 12 42 24 12 41 13 In hoc et alliis Versichern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

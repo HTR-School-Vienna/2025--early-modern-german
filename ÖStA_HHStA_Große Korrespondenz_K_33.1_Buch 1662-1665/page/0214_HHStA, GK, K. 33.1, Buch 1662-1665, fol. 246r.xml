@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.1:model_id=50870:lm=none:date=01_11_2025_20:35</Creator>
+        <Created>2025-10-07T16:01:07.542+02:00</Created>
+        <LastChange>2025-12-07T13:02:48.776+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004783" pageNr="214" tsid="264119236" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=HUENUFHUSTVPGJLAQPFOUDTM" xmlUrl="https://files.transkribus.eu/Get?id=DMTSXXNBLNAGEFCGSDBROAVC" imageId="87275836"/>
+    </Metadata>
+    <Page imageFilename="0214_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 246r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532900458" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1329,172 366,180 368,718 2180,694 2173,202"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="406,312 423,419 445,402 475,363 551,337 610,390 663,352 702,348 686,376 709,391 761,341 898,318 1245,358 1462,332 1522,312 1575,345 1835,347 2099,328 2094,241 2024,208 1708,229 1635,250 1580,207 1372,186 1266,246 1253,226 1127,195 969,227 805,275 669,220 424,246"/>
+                <Baseline points="435,358 518,333 601,332 684,327 767,324 851,316 934,310 1017,301 1100,294 1183,289 1267,296 1350,301 1433,301 1516,304 1599,304 1683,304 1766,306 1849,308 1932,311 2015,316 2099,316"/>
+                <TextEquiv>
+                    <Unicode>Was Ich wegen des Von Harach schreibe, Ist auf Sein anhaldten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="409,495 511,493 584,426 692,454 910,450 1137,416 1167,396 1249,455 1364,396 1413,419 1709,432 1762,413 1823,445 1992,463 2111,470 2145,361 1901,344 1810,345 1667,330 1522,330 1303,341 1237,358 1103,295 1073,304 1037,350 955,309 712,330 612,376 553,346 436,365 409,417"/>
+                <Baseline points="421,447 505,431 590,421 674,421 759,421 844,418 928,412 1013,405 1098,399 1182,393 1267,394 1352,397 1436,397 1521,399 1606,402 1690,412 1775,416 1827,418 1860,422 1944,424 2029,421 2114,421"/>
+                <TextEquiv>
+                    <Unicode>beschehen. Versteht Sich aber Cum grano salis, Vnd thue Ich Es nur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="385,555 436,571 522,545 589,528 661,540 880,518 915,586 965,560 973,528 1015,499 1142,501 1284,505 1375,508 1602,521 1779,515 1864,541 2018,521 2045,488 1871,443 1622,425 1484,434 1426,415 1327,423 1281,382 1236,440 1199,419 1133,453 851,415 795,422 741,452 726,423 676,432 617,471 570,438 385,510"/>
+                <Baseline points="397,537 478,518 559,507 641,504 722,498 803,496 885,490 966,488 1047,483 1129,483 1210,485 1291,487 1373,489 1454,495 1535,495 1617,501 1698,503 1779,506 1861,513 1942,516 2024,519"/>
+                <TextEquiv>
+                    <Unicode>mich Seiner zu Endtledigen. hab Es Euch also himit a parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="385,667 499,676 728,607 936,619 1292,578 1385,618 1625,619 1702,584 2046,627 2066,586 2046,506 1987,513 1942,534 1891,549 1837,548 1836,511 1656,537 1583,509 1389,491 1283,484 1207,548 1116,476 1042,515 963,498 514,540 497,517 473,519 385,566"/>
+                <Baseline points="397,621 479,607 562,598 645,592 727,587 810,584 893,576 975,573 1058,571 1141,568 1224,570 1306,569 1389,571 1472,573 1554,582 1637,582 1720,585 1802,588 1885,595 1968,600 2051,603"/>
+                <TextEquiv>
+                    <Unicode>anzeigen wolle. daß andere Köndt Ihr Ihm wol Vorweißen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

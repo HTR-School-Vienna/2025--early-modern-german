@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=436669:lm=none:date=23_11_2025_19:49</Creator>
+        <Created>2025-11-20T23:03:51.276+01:00</Created>
+        <LastChange>2025-11-27T21:53:51.163+01:00</LastChange>
+        <TranskribusMetadata docId="12342425" pageId="106563946" pageNr="30" tsid="263035404" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MIXVRTQDYQKCUJFUVFQSNMSE" xmlUrl="https://files.transkribus.eu/Get?id=EIRAWTVRZCAAFYXSDJAHMSQK" imageId="89483660"/>
+    </Metadata>
+    <Page imageFilename="0030_HHStA, GK, K. 33.1, Buch 1666-1667, fol. 28r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765533055079" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="788,542 803,1145 1816,1149 1803,543"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;} split_word {offset:26; length:3; continued:true;}">
+                <Coords points="913,664 927,668 910,687 950,680 972,661 991,676 1008,657 1031,675 1044,657 1072,675 1091,658 1094,684 1117,689 1127,676 1131,662 1137,690 1153,677 1165,665 1197,663 1208,660 1229,662 1244,661 1271,662 1293,657 1314,656 1331,656 1361,656 1383,658 1404,657 1433,683 1456,665 1481,646 1519,661 1530,647 1561,645 1581,650 1605,645 1623,664 1666,649 1706,679 1723,670 1715,617 1698,586 1682,598 1651,585 1612,582 1601,594 1572,578 1553,586 1544,567 1527,576 1514,576 1479,595 1461,584 1438,597 1412,615 1395,583 1382,574 1357,603 1316,603 1303,563 1275,605 1235,608 1194,608 1189,591 1151,602 1129,564 1098,585 1084,625 1047,629 1031,608 971,586 930,601 910,620"/>
+                <Baseline points="910,665 950,658 991,654 1031,653 1072,653 1113,654 1153,655 1194,653 1235,653 1275,650 1316,648 1357,648 1397,644 1438,642 1479,640 1519,639 1560,639 1601,639 1641,640 1682,643 1723,648"/>
+                <TextEquiv>
+                    <Unicode>Meinen Gehaimben Rath Vnd Pot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;} split_word {offset:0; length:9; continued:true;} abbrev {offset:13; length:4;} abbrev {offset:35; length:4;}">
+                <Coords points="899,756 888,814 925,790 957,770 981,777 1012,772 1036,764 1055,760 1073,761 1104,756 1126,758 1142,752 1173,758 1208,758 1237,749 1242,767 1261,795 1284,785 1300,767 1326,757 1341,753 1379,778 1407,749 1435,744 1460,745 1481,741 1504,789 1535,763 1559,749 1606,770 1637,752 1659,745 1694,749 1709,748 1734,765 1764,789 1778,773 1783,753 1775,719 1739,703 1679,695 1685,673 1677,668 1657,678 1635,695 1629,715 1569,712 1586,683 1582,673 1572,650 1528,707 1507,688 1476,709 1454,715 1435,709 1417,695 1410,686 1407,680 1407,666 1387,660 1363,666 1344,697 1307,688 1285,698 1263,707 1226,692 1211,661 1198,683 1186,693 1166,719 1110,706 1086,718 1065,725 1048,713 1046,687 1034,680 1025,697 1013,694 979,718 976,688 966,685 935,726 916,699 906,725 907,742"/>
+                <Baseline points="892,779 935,771 979,763 1023,759 1067,754 1110,751 1154,749 1198,748 1242,745 1285,743 1329,742 1373,740 1417,740 1460,740 1504,740 1548,740 1592,740 1635,740 1679,740 1723,740 1767,746"/>
+                <TextEquiv>
+                    <Unicode>schaffter an Kon. hispanischen hov etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="834,953 880,938 923,882 1002,870 1018,895 1074,869 1143,867 1198,861 1245,859 1270,892 1328,859 1381,854 1436,850 1497,848 1531,892 1555,886 1557,843 1592,872 1613,857 1643,842 1696,842 1730,840 1641,911 1688,926 1739,924 1783,917 1782,856 1791,822 1786,813 1762,805 1745,780 1695,770 1643,790 1598,768 1551,790 1522,795 1507,776 1492,772 1472,777 1459,794 1413,797 1367,800 1335,811 1330,790 1322,754 1258,801 1239,756 1229,742 1182,808 1146,815 1090,815 1056,787 998,821 1000,767 893,828 840,899"/>
+                <Baseline points="860,892 906,882 952,873 998,867 1044,864 1090,861 1136,857 1182,854 1228,852 1274,851 1321,849 1367,846 1413,843 1459,840 1505,839 1551,836 1597,836 1643,836 1689,833 1735,833 1782,833"/>
+                <TextEquiv>
+                    <Unicode>Franz eusebio Graven Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="904,1117 915,1128 930,1127 954,1126 982,1126 1005,1128 1035,1126 1071,1125 1110,1121 1135,1143 1161,1141 1206,1133 1213,1110 1161,1072 1121,1073 1099,1085 1080,1075 1063,1074 1031,1089 1019,1063 998,1060 973,1056 934,1063 898,1073"/>
+                <Baseline points="898,1119 924,1119 950,1119 977,1119 1003,1119 1029,1119 1056,1119 1082,1119 1108,1119 1135,1119 1161,1118 1188,1116"/>
+                <TextEquiv>
+                    <Unicode>Madrid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Meinen Gehaimben Rath Vnd Bot
+schaffter an Kon. hispanischen hov
+Franz eusebio Graven Von Pötting
+Madrid</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="427,1324 427,1480 501,1480 501,1324"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

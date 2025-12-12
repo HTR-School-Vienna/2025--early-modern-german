@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T16:00:32.635+02:00</Created>
+        <LastChange>2025-11-23T10:42:40.059+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004702" pageNr="169" tsid="262445099" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CFIYHAIBOFCDSOECHSDOXEXT" xmlUrl="https://files.transkribus.eu/Get?id=NKNBACDWXOSMVSFDAEBMFNXE" imageId="87275718"/>
+    </Metadata>
+    <Page imageFilename="0169_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 211r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532885972" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1091,464 1085,919 2234,930 2202,473"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1095,715 1192,702 1244,651 1314,632 1359,629 1404,626 1448,626 1493,623 1538,626 1582,629 1627,623 1670,628 1683,645 1717,623 1761,623 1806,620 1851,620 1895,617 1940,617 1985,614 2029,614 2074,611 2099,640 2164,620 2190,560 2196,497 2144,507 2042,501 1985,553 1931,536 1895,556 1851,559 1806,559 1761,562 1762,515 1677,521 1627,562 1612,513 1536,522 1468,537 1448,565 1404,565 1359,568 1325,485 1206,488"/>
+                <Baseline points="1270,620 1314,612 1359,609 1404,606 1448,606 1493,603 1538,606 1582,609 1627,603 1672,603 1717,603 1761,603 1806,600 1851,600 1895,597 1940,597 1985,594 2029,594 2074,591 2119,597 2164,600"/>
+                <TextEquiv>
+                    <Unicode>Meinem Pottschaffter an des Konigs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} abbrev {offset:14; length:7;}">
+                <Coords points="1218,720 1220,719 1269,735 1336,744 1378,724 1432,735 1482,724 1535,722 1587,724 1640,722 1692,724 1732,735 1797,722 1849,724 1898,774 1954,721 2006,718 2061,744 2111,719 2182,724 2164,664 2109,634 2059,661 2006,658 2013,598 1902,662 1849,664 1808,632 1744,661 1696,634 1656,617 1587,664 1535,662 1502,648 1430,664 1409,628 1325,664 1273,662 1239,648 1209,669"/>
+                <Baseline points="1220,699 1273,702 1325,704 1378,704 1430,704 1482,704 1535,702 1587,704 1640,702 1692,704 1744,701 1797,702 1849,704 1902,702 1954,701 2006,698 2059,701 2111,699 2164,704"/>
+                <TextEquiv>
+                    <Unicode>Von hispanien Liebden hove Franzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1197,839 1241,833 1286,847 1331,830 1376,827 1421,827 1458,863 1510,830 1555,821 1600,824 1645,821 1689,821 1734,821 1779,821 1824,827 1848,850 1913,830 1958,830 1969,904 2005,921 2093,830 2093,766 2048,766 2003,763 1990,725 1913,766 1856,740 1824,763 1781,739 1721,716 1689,757 1645,757 1600,760 1555,757 1510,766 1465,760 1421,763 1413,716 1331,766 1286,769 1241,735 1197,775"/>
+                <Baseline points="1197,818 1241,812 1286,812 1331,809 1376,806 1421,806 1465,803 1510,809 1555,800 1600,803 1645,800 1689,800 1734,800 1779,800 1824,806 1869,806 1913,809 1958,809 2003,806 2048,809 2093,809"/>
+                <TextEquiv>
+                    <Unicode>eusebio graven Von Potting</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.35.0:model_id=309593:date=28_11_2025_22:15</Creator>
+        <Created>2025-10-07T15:59:13.537+02:00</Created>
+        <LastChange>2025-12-03T22:28:47.360+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004547" pageNr="62" tsid="263615761" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ILPVPQFRVUWFMSBFOYHVRSSR" xmlUrl="https://files.transkribus.eu/Get?id=SJRQJWMEPBUNEDNJFZMMAAUQ" imageId="87275605"/>
+    </Metadata>
+    <Page imageFilename="0062_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 83r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532856098" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="897,428 886,920 2157,914 2169,423"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="996,674 1155,709 1714,672 1920,702 2056,676 2058,577 1867,528 1672,615 1611,569 1498,538 1308,532 1174,525 998,524"/>
+                <Baseline points="1003,671 1055,663 1108,662 1161,659 1214,656 1267,654 1320,657 1372,659 1425,659 1478,659 1531,652 1584,647 1637,640 1690,637 1742,636 1795,636 1848,641 1901,647 1954,652 2007,658 2060,662"/>
+                <TextEquiv>
+                    <Unicode>An Franz eusebium Graffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="996,803 1119,786 1222,842 1267,829 1334,875 1472,841 1500,730 1358,674 1272,693 1247,678 1136,729 1038,673 993,677"/>
+                <Baseline points="1003,779 1029,776 1055,773 1081,775 1107,775 1134,773 1160,775 1186,776 1212,776 1239,776 1265,776 1291,777 1317,779 1343,779 1370,780 1396,781 1422,781 1448,779 1475,779"/>
+                <TextEquiv>
+                    <Unicode>Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

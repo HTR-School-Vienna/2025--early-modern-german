@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T15:59:11.852+02:00</Created>
+        <LastChange>2025-11-08T00:26:19.766+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004544" pageNr="60" tsid="262038397" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BGELKSXOMIWEFVTXEDHGIPCX" xmlUrl="https://files.transkribus.eu/Get?id=OLNOSTOYKUJMYBVAWSZRZRNV" imageId="87275586"/>
+    </Metadata>
+    <Page imageFilename="0060_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 80r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532855410" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="494,665 1643,665 1660,1040 508,1106"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="690,892 730,883 777,878 792,905 801,945 826,961 900,894 945,898 981,890 1017,876 1055,881 1100,880 1142,876 1188,878 1234,866 1266,866 1294,881 1337,877 1385,892 1415,892 1462,893 1517,896 1574,876 1589,772 1528,759 1493,765 1448,793 1421,742 1366,742 1312,791 1279,776 1234,772 1198,764 1149,758 1114,743 1069,742 1042,731 1013,747 977,740 926,746 889,745 865,740 824,746 748,743 689,740"/>
+                <Baseline points="694,882 739,874 777,878 830,874 857,876 901,866 940,859 986,857 1019,853 1066,847 1104,847 1145,851 1199,847 1232,841 1271,837 1304,839 1352,851 1389,849 1425,855 1458,855 1495,855 1555,855"/>
+                <TextEquiv>
+                    <Unicode>An Frantz Eusebium Graffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="657,990 740,994 812,1001 866,1015 912,1011 955,1013 1004,1051 1038,1039 1078,1014 1107,1002 1121,956 1110,928 1000,894 953,907 916,902 877,916 834,941 816,905 799,868 747,900 714,913 659,923"/>
+                <Baseline points="675,977 754,979 791,977 865,971 890,975 930,973 973,971 1008,967 1042,967 1079,965 1116,957"/>
+                <TextEquiv>
+                    <Unicode>Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

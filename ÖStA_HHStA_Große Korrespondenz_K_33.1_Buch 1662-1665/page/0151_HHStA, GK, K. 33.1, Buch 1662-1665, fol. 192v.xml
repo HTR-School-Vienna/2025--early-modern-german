@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=436669:lm=none:date=25_11_2025_14:37</Creator>
+        <Created>2025-10-07T16:00:18.641+02:00</Created>
+        <LastChange>2025-12-01T11:33:47.858+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004721" pageNr="151" tsid="263344238" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=WBENPOHNSTNMVDQXOVZPDPNN" xmlUrl="https://files.transkribus.eu/Get?id=ZOGWRMYORKKMGZNCAHXICAVT" imageId="87275736"/>
+    </Metadata>
+    <Page imageFilename="0151_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 192v.JPG" imageWidth="1944" imageHeight="2592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532880752" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="245,49 228,2190 1864,2182 1854,42"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="304,291 505,202 725,215 745,231 784,208 961,170 1333,206 1462,148 1526,193 1608,153 1789,197 1791,136 1734,91 1670,87 1507,123 1381,85 1303,134 1061,85 965,148 889,93 559,140 464,140 346,206"/>
+                <Baseline points="354,220 426,212 498,206 570,202 642,197 718,192 786,186 858,180 930,176 1002,173 1074,170 1146,168 1218,166 1290,162 1362,161 1434,154 1506,150 1578,152 1650,153 1722,168 1794,182"/>
+                <TextEquiv>
+                    <Unicode>grosse vbel zu besorgen Sein, vnd wirdt wol guett Sein, auch Vnser Seits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} cipher {offset:5; length:2;decryption:Peňeranda\u0020(Castrillo?);} unclear {offset:5; length:2;reason:Edition; alternative:Peñeranda;}">
+                <Coords points="337,316 1747,281 1730,180 1415,166 1218,214 1139,176 477,212 339,269"/>
+                <Baseline points="348,298 417,294 486,293 555,289 625,286 694,283 763,280 833,276 902,272 971,268 1041,264 1110,264 1179,262 1248,262 1318,258 1387,252 1456,251 1526,248 1595,248 1664,256 1734,266"/>
+                <TextEquiv>
+                    <Unicode>mitt BP In Etwaß Zu dissimuliren, damitt doch Einmal die Sachen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} split_word {offset:61; length:3; continued:true;}">
+                <Coords points="310,401 393,441 520,407 762,388 840,443 1097,403 1715,373 1719,286 1681,278 881,291 736,354 666,308 314,314"/>
+                <Baseline points="322,388 391,385 461,386 531,388 601,385 671,382 741,378 811,377 881,374 951,370 1021,365 1090,364 1160,361 1230,359 1300,356 1370,353 1440,347 1510,350 1580,353 1650,357 1720,362"/>
+                <TextEquiv>
+                    <Unicode>besser gehen Sollen. vbrigen Verlangen wir Mitt Verlangen Zu Ver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;} split_word {offset:0; length:5; continued:true;} cipher {offset:19; length:2;decryption:König\u0020von\u0020Spanien;} cipher {offset:22; length:61;decryption:auf\u0020die\u0020Propositition;} corrected {offset:38; length:3;}">
+                <Coords points="304,503 418,480 627,535 719,486 980,480 1077,502 1216,477 1433,511 1500,486 1821,531 1830,450 1495,440 1350,444 1311,409 1178,420 1040,452 541,401 304,446"/>
+                <Baseline points="314,484 389,480 465,482 540,484 616,486 692,484 767,482 843,480 918,480 994,480 1070,480 1145,476 1221,476 1296,478 1372,476 1448,474 1523,475 1599,480 1674,489 1750,503 1826,526"/>
+                <TextEquiv>
+                    <Unicode>nemen, wessen Sich AB 11 44 22 05 41 13 12 065 21 24 14 21 14 34 13 41 13 14 43 965</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;} cipher {offset:0; length:11;decryption:des;} cipher {offset:12; length:2;decryption:König\u0020von\u0020Frankreich;} cipher {offset:16; length:23;decryption:so\u0020er\u0020dem;} cipher {offset:40; length:2;decryption:La\u0020Fuente;} cipher {offset:43; length:35;decryption:gethon\u0020hat;} corrected {offset:43; length:1;} corrected {offset:49; length:1;} unclear {offset:77; length:1;}">
+                <Coords points="306,617 861,634 1036,586 1203,647 1328,594 1511,618 1566,584 1827,654 1816,535 1636,509 1487,556 1146,499 978,556 887,507 745,567 647,522 308,520"/>
+                <Baseline points="316,594 391,590 466,594 541,599 616,602 691,599 766,596 841,591 916,590 991,587 1067,586 1142,586 1217,584 1292,585 1367,586 1442,583 1517,580 1592,584 1667,592 1742,607 1818,628"/>
+                <TextEquiv>
+                    <Unicode>41 12 34 87 AH, 34 14 12 24 69 41 12 33 BR 32 12 41 31 14  43 06 31 11 41 6569</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} cipher {offset:0; length:77;decryption:in\u0020materia\u0020d(e)rienige,\u0020welche;} corrected {offset:48; length:1;} corrected {offset:69; length:1;} corrected {offset:76; length:1;} cipher {offset:78; length:2;decryption:Kaiser;}">
+                <Coords points="301,715 1281,719 1513,702 1657,731 1810,747 1824,685 1789,651 1488,613 1288,615 1188,664 1008,620 301,654"/>
+                <Baseline points="312,688 387,690 462,692 537,696 612,698 687,700 762,698 837,696 912,694 987,694 1063,694 1138,693 1213,692 1288,692 1363,692 1438,693 1513,698 1588,702 1663,714 1738,728 1814,732"/>
+                <TextEquiv>
+                    <Unicode>13 43 33 11 41 12 24 13 11 06 41 24 13 12 43 13 32 12 06958 21 12 23 42 31 12 AF</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;} cipher {offset:0; length:83;decryption:in\u0020Niderlano\u0020hatt\u0020schiken;} corrected {offset:24; length:1;} corrected {offset:62; length:1;}">
+                <Coords points="299,823 560,806 940,857 1377,815 1729,864 1787,851 1821,817 1797,764 1689,815 1326,726 1139,775 1006,724 679,749 465,705 297,749"/>
+                <Baseline points="310,796 384,794 458,794 532,796 606,800 680,805 754,806 828,806 902,805 976,806 1051,806 1125,810 1199,810 1273,810 1347,810 1421,814 1495,820 1569,828 1643,834 1717,840 1792,846"/>
+                <TextEquiv>
+                    <Unicode>13 43 07 43 13 41 12 24 23 11 43 14 0698 31 11 41 0 41 065 34 42 31 13 42 12 43 656</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;} cipher {offset:0; length:81;decryption:wallen\u0020resolviren\u0020wirt;}">
+                <Coords points="310,885 531,893 640,969 783,906 1701,981 1776,1011 1802,1001 1821,940 1800,885 306,836"/>
+                <Baseline points="318,872 392,877 467,882 541,890 616,900 691,905 765,904 840,910 914,910 989,911 1064,916 1138,921 1213,926 1287,925 1362,928 1437,933 1511,938 1586,943 1660,949 1735,963 1810,974"/>
+                <TextEquiv>
+                    <Unicode>21 11 23 23 12 43 7788990 24 12 34 14 23 44 13 24 12 43 65 21 13 24 41 6699678809.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="286,987 468,987 502,1012 544,998 693,1008 1059,1016 1617,1031 1774,1087 1796,996 1692,981 1443,941 747,917 663,971 637,935 507,904 278,923"/>
+                <Baseline points="290,966 364,966 438,972 512,975 586,982 661,989 735,988 809,991 883,994 957,994 1032,992 1106,994 1180,999 1254,1000 1328,1002 1403,1006 1477,1012 1551,1020 1625,1025 1699,1032 1774,1040"/>
+                <TextEquiv>
+                    <Unicode>Vmb den guetten CarlizKo Von Walstein Ist mir laidt. vnd möchte Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:9;} textStyle {offset:42; length:6;strikethrough}">
+                <Coords points="263,1021 460,988 948,1010 1057,1022 1088,1060 1219,1056 1206,1111 997,1137 358,1125 268,1088"/>
+                <Baseline points="276,1068 349,1070 422,1074 495,1076 568,1079 641,1080 714,1083 787,1084 860,1085 933,1088 1007,1090 1063,1092 1063,1092 1080,1092 1153,1092 1208,1093"/>
+                <TextEquiv>
+                    <Unicode>wol gerne die Eigendtliche Vrsach wissen  womitt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="1090,1060 1130,1062 1183,1062 1270,1066 1287,1016 1206,1013 1182,1016 1133,1004 1089,1023"/>
+                <Baseline points="1102,1048 1130,1048 1158,1050 1186,1052 1214,1055 1242,1057 1270,1060"/>
+                <TextEquiv>
+                    <Unicode>Warumb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:11;} abbrev {offset:9; length:2;expansion:Don;}">
+                <Coords points="1219,1056 1379,1036 1662,1032 1747,1079 1734,1157 1391,1123 1220,1109"/>
+                <Baseline points="1223,1093 1299,1094 1372,1096 1445,1100 1518,1103 1591,1111 1664,1119 1738,1130"/>
+                <TextEquiv>
+                    <Unicode>mann den D. Antonio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;} unclear {offset:65; length:3;}">
+                <Coords points="284,1199 665,1236 900,1223 1518,1256 1630,1286 1772,1261 1788,1190 1683,1157 1403,1142 1298,1168 1027,1125 593,1109 568,1085 325,1088 280,1118"/>
+                <Baseline points="292,1160 366,1166 440,1172 514,1177 588,1183 663,1190 737,1192 811,1192 885,1196 959,1202 1034,1206 1108,1206 1182,1211 1256,1216 1330,1218 1405,1216 1479,1220 1553,1224 1627,1232 1701,1248 1776,1258"/>
+                <TextEquiv>
+                    <Unicode>Pimentel EingeSezt hatt. Suecht Es zu penetriren, et avisatemelo poi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;} abbrev {offset:4; length:2;expansion:Pater;}">
+                <Coords points="269,1276 366,1295 1023,1298 1400,1343 1504,1331 1617,1350 1749,1348 1749,1269 1010,1208 632,1191 267,1210"/>
+                <Baseline points="280,1260 353,1255 426,1256 499,1259 572,1265 645,1268 718,1272 791,1270 864,1271 937,1276 1010,1278 1083,1282 1156,1286 1229,1295 1302,1304 1375,1309 1448,1312 1521,1317 1594,1323 1667,1331 1740,1340"/>
+                <TextEquiv>
+                    <Unicode>des P. Mihel Cadela delineatio des Comets Ist mir gar lieb gwest.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="280,1333 364,1354 870,1390 1066,1392 1137,1360 1594,1407 1695,1430 1742,1430 1738,1354 1490,1325 1233,1316 1132,1303 945,1284 800,1271 463,1269 339,1271 276,1286"/>
+                <Baseline points="290,1332 362,1330 435,1334 508,1338 580,1343 653,1346 726,1350 798,1352 871,1354 944,1356 1017,1358 1089,1360 1162,1362 1235,1369 1307,1380 1380,1383 1453,1387 1525,1395 1598,1403 1671,1408 1744,1420"/>
+                <TextEquiv>
+                    <Unicode>die Constitutio Terrestris Zeigt wol, alß wann Er Selzame Motus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="292,1440 386,1459 503,1450 596,1456 656,1477 803,1471 1338,1467 1373,1468 1416,1451 1508,1476 1534,1491 1590,1470 1680,1482 1751,1479 1751,1432 1692,1415 1318,1384 1315,1370 1265,1377 276,1359"/>
+                <Baseline points="288,1424 361,1428 434,1434 508,1437 581,1438 655,1440 728,1445 801,1446 875,1445 948,1446 1022,1446 1095,1442 1168,1443 1242,1442 1315,1444 1389,1446 1462,1448 1535,1454 1609,1460 1682,1468 1756,1478"/>
+                <TextEquiv>
+                    <Unicode>Et effetus Verursachen Soldte. Waß Sonsten Vnß anlangt, Sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="268,1560 749,1541 879,1547 1068,1563 1184,1557 1755,1596 1790,1558 1753,1513 1254,1477 1212,1496 1142,1451 1078,1492 1000,1458 781,1467 255,1445"/>
+                <Baseline points="266,1518 340,1519 415,1520 490,1523 564,1522 639,1522 714,1522 788,1525 863,1526 938,1527 1013,1530 1085,1531 1162,1530 1237,1531 1311,1534 1386,1537 1461,1544 1535,1549 1610,1557 1685,1569 1760,1584"/>
+                <TextEquiv>
+                    <Unicode>Wir alle Gott lob gar wol auf vnd Finden Sich algemach alle leutt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:17;} abbrev {offset:51; length:3;expansion:Oberst;}">
+                <Coords points="282,1639 545,1622 785,1672 915,1646 1730,1715 1809,1701 1791,1634 1778,1619 1755,1624 1702,1617 1267,1577 696,1560 318,1551 278,1611"/>
+                <Baseline points="290,1628 365,1613 441,1613 516,1616 592,1619 668,1622 743,1629 819,1628 894,1629 970,1634 1046,1639 1121,1642 1197,1641 1272,1646 1348,1648 1424,1654 1499,1662 1575,1672 1650,1677 1726,1687 1802,1700"/>
+                <TextEquiv>
+                    <Unicode>Ich main So frembdt genommene resolution wegen der Ob. hoffmaister</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;} unclear {offset:42; length:1;} cipher {offset:51; length:2;decryption:König(in?)\u0020von\u0020Polen;}">
+                <Coords points="295,1740 1212,1792 1366,1773 1759,1793 1772,1713 1388,1674 1207,1704 1093,1649 744,1670 550,1621 403,1631 291,1659"/>
+                <Baseline points="306,1720 379,1709 453,1710 526,1715 600,1720 674,1728 747,1734 821,1734 894,1735 968,1738 1042,1744 1115,1746 1189,1746 1262,1750 1336,1752 1410,1756 1483,1762 1557,1769 1630,1772 1704,1775 1778,1782"/>
+                <TextEquiv>
+                    <Unicode>Stelle. In Polhen Ist Es noch alles Vnruhig, Wanno AO Sterbn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="280,1829 714,1854 1381,1840 1519,1884 1734,1876 1713,1776 1335,1759 1284,1791 1193,1772 754,1768 620,1775 412,1743 276,1748"/>
+                <Baseline points="288,1810 359,1807 431,1808 502,1812 574,1816 645,1820 717,1820 788,1822 860,1824 931,1825 1003,1828 1074,1826 1146,1828 1217,1830 1289,1833 1360,1833 1432,1837 1503,1842 1575,1848 1646,1853 1690,1859"/>
+                <TextEquiv>
+                    <Unicode>woldte, wie mann Sagt, daß gar vber auf Seye, Wurde Ein grosse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:20;} abbrev {offset:68; length:4;expansion:Kayserlichen;}">
+                <Coords points="287,1899 1755,1999 1777,1915 1559,1880 1418,1854 286,1835"/>
+                <Baseline points="298,1890 371,1889 444,1894 517,1896 590,1898 663,1902 736,1907 809,1912 882,1915 955,1914 1028,1916 1101,1914 1174,1916 1247,1927 1320,1938 1393,1945 1466,1942 1539,1949 1612,1954 1685,1960 1758,1962"/>
+                <TextEquiv>
+                    <Unicode>Unruhe Vermitteldt bleiben. vbriges Verbleibe Ich Euch alzeitt mitt Kay.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:21;} abbrev {offset:11; length:4;expansion:königlichen;}">
+                <Coords points="1138,2044 856,2066 809,2020 558,1995 471,2001 281,2010 278,1893 1099,1965 1144,1966"/>
+                <Baseline points="294,1982 366,1981 439,1986 512,1988 585,1987 658,1992 731,1995 804,2000 877,2000 950,2000 1023,2003 1095,2003 1125,2001"/>
+                <TextEquiv>
+                    <Unicode>hulden vnd Kön. genaden wolgewogen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:22;}">
+                <Coords points="284,2130 318,2137 348,2126 384,2141 433,2122 478,2143 541,2131 537,2007 513,2007 496,1993 471,2007 456,1993 427,1988 410,1999 386,1988 282,2020"/>
+                <Baseline points="292,2080 317,2078 342,2077 368,2077 393,2078 419,2078 444,2080 469,2080 495,2082 520,2083 546,2086"/>
+                <TextEquiv>
+                    <Unicode>Leopoldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:23;}">
+                <Coords points="1231,1962 1297,1954 1742,1993 1753,2083 1719,2097 1243,2026 1232,2022"/>
+                <Baseline points="1241,2010 1314,2018 1387,2026 1460,2037 1533,2047 1606,2062 1679,2075 1752,2084"/>
+                <TextEquiv>
+                    <Unicode> Wienn, den 18. Merz 1665</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

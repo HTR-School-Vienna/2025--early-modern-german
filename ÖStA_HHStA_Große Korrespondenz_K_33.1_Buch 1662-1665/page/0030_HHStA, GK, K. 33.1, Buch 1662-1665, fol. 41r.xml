@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T15:58:51.603+02:00</Created>
+        <LastChange>2025-11-05T08:41:00.347+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004424" pageNr="30" tsid="262038339" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MTVYQGCQXJTKGBVFSHUQIETU" xmlUrl="https://files.transkribus.eu/Get?id=AKYHTNNYDAMCZGPFHKPBWRQW" imageId="87275593"/>
+    </Metadata>
+    <Page imageFilename="0030_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 41r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532846387" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="937,394 1951,406 1962,797 943,794"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1086,632 1138,653 1230,593 1527,626 1823,641 1945,637 1944,456 1850,448 1391,432 1144,428 987,428 973,596"/>
+                <Baseline points="986,573 1126,560 1247,563 1404,572 1562,581 1831,602 1928,605"/>
+                <TextEquiv>
+                    <Unicode>An Franz Eusebium Graffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="1005,685 1168,767 1338,785 1416,717 1450,647 1244,608 1129,652 1092,628 1018,616"/>
+                <Baseline points="1007,673 1116,681 1227,691 1339,711 1400,711"/>
+                <TextEquiv>
+                    <Unicode>von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

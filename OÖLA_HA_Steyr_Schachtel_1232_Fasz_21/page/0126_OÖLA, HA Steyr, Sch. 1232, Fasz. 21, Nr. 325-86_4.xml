@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=428673:lm=none:date=07_12_2025_19:07</Creator>
+        <Created>2025-11-06T18:15:18.174+01:00</Created>
+        <LastChange>2025-12-08T00:07:52.323+01:00</LastChange>
+        <TranskribusMetadata docId="11989396" pageId="105609812" pageNr="126" tsid="264151609" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EEPMPXNEIHBOXDDYETWEBHDK" xmlUrl="https://files.transkribus.eu/Get?id=ZYZIMTJQJHGJYGSXKYSDODES" imageId="88667040"/>
+    </Metadata>
+    <Page imageFilename="0126_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-86_4.jpg" imageWidth="2758" imageHeight="4032">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532799999" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="182,2038 183,2743 1445,2738 1447,2027"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="183,2166 275,2267 466,2254 690,2202 1058,2195 1183,2191 1365,2160 1374,2046 818,2046 520,2068 397,2063 287,2082"/>
+                <Baseline points="286,2210 340,2213 394,2203 448,2196 502,2186 557,2180 611,2174 665,2167 719,2162 773,2155 828,2153 882,2150 936,2147 990,2147 1044,2147 1099,2147 1153,2147 1207,2144 1261,2144 1315,2142 1370,2144"/>
+                <TextEquiv>
+                    <Unicode>An Iohann Maximilian Graffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;} abbrev {offset:12; length:4;}">
+                <Coords points="238,2381 385,2347 617,2391 707,2405 754,2376 944,2364 1141,2386 1252,2329 1368,2337 1374,2223 1073,2203 720,2210 629,2216 472,2250 242,2292"/>
+                <Baseline points="247,2365 303,2358 359,2348 415,2342 472,2336 528,2329 584,2324 641,2318 697,2317 753,2317 810,2314 866,2312 922,2311 978,2308 1035,2308 1091,2308 1147,2308 1204,2308 1260,2309 1316,2311 1373,2311"/>
+                <TextEquiv>
+                    <Unicode>von lamberg etc., Meinen geheimben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;} corrected {offset:22; length:1;} abbrev {offset:25; length:4;}">
+                <Coords points="232,2520 334,2570 482,2493 562,2489 671,2561 1375,2519 1402,2357 1242,2340 1126,2390 1050,2367 872,2377 716,2385 657,2388 604,2392 547,2354 357,2379 238,2403"/>
+                <Baseline points="241,2508 275,2501 310,2496 345,2489 380,2482 415,2477 450,2475 484,2475 519,2475 554,2476 589,2478 624,2478 659,2476 694,2475 728,2474 763,2472 798,2472 833,2472 868,2469 903,2466 1037,2458 1075,2460 1208,2454 1243,2460 1294,2455"/>
+                <TextEquiv>
+                    <Unicode>Rath vnd Potschaffter An Kön.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="237,2695 358,2712 444,2663 576,2672 686,2639 754,2663 901,2672 867,2495 803,2517 722,2527 633,2539 552,2528 463,2526 342,2570 244,2544"/>
+                <Baseline points="247,2646 276,2638 305,2633 335,2625 364,2618 394,2614 423,2612 452,2610 482,2612 511,2613 541,2613 570,2613 600,2613 629,2613 658,2613 688,2613 717,2613 747,2613 776,2610 806,2604"/>
+                <TextEquiv>
+                    <Unicode>spanischen Hoff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

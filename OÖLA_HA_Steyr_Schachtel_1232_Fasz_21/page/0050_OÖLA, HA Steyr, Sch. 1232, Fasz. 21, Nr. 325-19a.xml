@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=445205:lm=none:date=06_12_2025_16:32</Creator>
+        <Created>2025-12-06T16:29:57.487+01:00</Created>
+        <LastChange>2025-12-06T16:35:28.410+01:00</LastChange>
+        <TranskribusMetadata docId="11989396" pageId="107735259" pageNr="50" tsid="264079601" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RQRYXJTQMOKDHFEJKAZAZCMX" xmlUrl="https://files.transkribus.eu/Get?id=WPZCOGNZZHRJQDGHHIXBHOCI" imageId="90548497"/>
+    </Metadata>
+    <Page imageFilename="0050_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-19a.jpg" imageWidth="3616" imageHeight="2451">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532770929" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1239,926 1241,1352 2426,1364 2440,924"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1269,1066 1622,1095 1880,1028 2025,1085 2127,1037 2266,1098 2408,1056 2411,943 2258,945 1724,943 1517,1004 1272,950"/>
+                <Baseline points="1277,1047 1333,1052 1390,1053 1447,1053 1504,1051 1560,1050 1617,1046 1674,1041 1731,1039 1787,1035 1844,1034 1901,1032 1958,1032 2014,1026 2071,1025 2128,1023 2185,1023 2241,1030 2298,1033 2355,1037 2412,1038"/>
+                <TextEquiv>
+                    <Unicode>An den Iohann Maxen Graffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1277,1179 1637,1231 1682,1225 1723,1173 2017,1173 2073,1213 2181,1229 2411,1190 2417,1083 2097,1078 1953,1073 1682,1080 1560,1098 1480,1076 1275,1118"/>
+                <Baseline points="1283,1155 1339,1158 1395,1157 1452,1157 1508,1155 1565,1151 1621,1147 1678,1146 1734,1146 1791,1143 1847,1143 1903,1143 1960,1143 2016,1147 2073,1153 2129,1158 2186,1158 2242,1156 2299,1160 2355,1169 2412,1167"/>
+                <TextEquiv>
+                    <Unicode>von lamberg, Meinem Pothschaffter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1278,1287 1414,1306 1494,1314 1818,1333 2136,1300 2183,1230 2163,1180 2074,1175 1926,1167 1809,1213 1691,1163 1641,1235 1470,1185 1278,1235"/>
+                <Baseline points="1286,1268 1333,1268 1381,1271 1428,1274 1476,1271 1523,1270 1571,1268 1618,1266 1666,1261 1713,1261 1761,1260 1808,1257 1856,1256 1903,1258 1951,1259 1998,1262 2046,1265 2093,1268 2141,1275 2188,1277 2236,1289"/>
+                <TextEquiv>
+                    <Unicode>an Kön. spanischen hoff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

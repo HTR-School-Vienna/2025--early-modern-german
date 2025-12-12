@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T15:38:45.416+02:00</Created>
+        <LastChange>2025-11-05T19:22:59.686+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104003516" pageNr="13" tsid="262036922" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=HXBKKIVETHOIBCRRFARDZUYW" xmlUrl="https://files.transkribus.eu/Get?id=RZKSXNJCHCZXTLGFSDPXRWKB" imageId="87274398"/>
+    </Metadata>
+    <Page imageFilename="0013_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 20r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532841775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="906,453 1877,453 1877,753 906,753"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="937,586 1045,578 1013,643 1044,653 1110,582 1238,594 1485,579 1524,607 1618,599 1688,568 1852,581 1856,551 1703,474 1584,452 1467,532 1336,490 1255,491 1176,528 1148,478 1021,542 1028,484 1007,465 927,501 934,556"/>
+                <Baseline points="937,586 1043,574 1233,566 1482,578 1718,564 1852,581"/>
+                <TextEquiv>
+                    <Unicode>An Franz Eusebium Graffen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="968,691 983,719 1003,724 1045,688 1131,684 1064,745 1089,754 1199,683 1197,651 1145,617 1023,610 934,654"/>
+                <Baseline points="968,691 1198,681"/>
+                <TextEquiv>
+                    <Unicode>Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

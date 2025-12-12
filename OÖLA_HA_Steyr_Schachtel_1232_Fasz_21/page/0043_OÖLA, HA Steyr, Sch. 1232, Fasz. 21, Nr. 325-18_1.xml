@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.34.0:model_id=309593:date=17_11_2025_09:02</Creator>
+        <Created>2025-11-06T18:14:45.540+01:00</Created>
+        <LastChange>2025-11-19T15:32:39.259+01:00</LastChange>
+        <TranskribusMetadata docId="11989396" pageId="105609814" pageNr="43" tsid="262081688" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XAGLYLTLYJTVTASHMPMVGBOY" xmlUrl="https://files.transkribus.eu/Get?id=QUWEKVNVWXOUGDQCMLDTQLFN" imageId="88666926"/>
+    </Metadata>
+    <Page imageFilename="0043_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-18_1.jpg" imageWidth="2428" imageHeight="3742">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532770272" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="5,540 38,3304 2354,3304 2362,540"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="38,744 271,728 403,756 617,692 1775,753 1862,695 2254,736 2281,614 2123,609 2003,602 1780,602 1687,590 1617,599 1459,602 1191,615 605,585 354,601 226,579 41,591"/>
+                <Baseline points="53,713 163,707 273,707 383,701 494,695 604,696 714,698 824,699 935,701 1045,705 1155,707 1265,699 1376,698 1486,694 1596,686 1706,685 1817,686 1927,686 2037,686 2147,686 2258,683"/>
+                <TextEquiv>
+                    <Unicode>Lieber Graff von lamberg Auß Euren lezten Schreiben hab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} abbrev {offset:11; length:10;}">
+                <Coords points="41,889 96,892 278,834 707,901 834,854 959,890 1344,904 1576,854 2186,870 2215,743 1845,715 1448,773 1069,715 800,757 646,718 449,770 41,739"/>
+                <Baseline points="56,835 162,838 268,834 374,829 481,826 587,827 693,831 799,835 906,832 1012,832 1118,833 1224,832 1331,832 1437,828 1543,821 1649,817 1756,816 1862,817 1968,816 2074,812 2181,814"/>
+                <TextEquiv>
+                    <Unicode>Ich beeder Majestäten guette gesondheitt gar wol verstanden. Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="40,1076 932,1027 1115,1054 1263,985 1395,1033 1680,1037 1854,976 2074,1046 2165,1032 2185,872 1628,863 1264,919 822,844 652,918 561,899 220,889 46,915"/>
+                <Baseline points="62,1002 167,995 272,990 377,990 482,987 588,985 693,984 798,982 903,982 1008,981 1114,981 1219,978 1324,978 1429,981 1534,981 1640,980 1745,978 1850,975 1955,978 2060,978 2166,975"/>
+                <TextEquiv>
+                    <Unicode>befünde mich Gott sey lob auch gar wol auf, aber habe allerley</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="61,1164 193,1190 689,1225 802,1141 1040,1177 1315,1144 1425,1214 2059,1118 2149,1185 2224,1167 2266,1053 960,1039 915,1028 845,1045 64,1046"/>
+                <Baseline points="77,1148 184,1133 292,1133 400,1133 508,1136 615,1139 723,1136 831,1136 939,1136 1046,1133 1154,1130 1262,1129 1370,1127 1477,1124 1585,1123 1693,1122 1801,1119 1908,1116 2016,1116 2124,1116 2232,1116"/>
+                <TextEquiv>
+                    <Unicode>Mukhen In khopf wegen des bekhandten Negoty, daß bleibt noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="43,1364 423,1286 1159,1331 1259,1305 1275,1339 1345,1310 2111,1315 2227,1283 2227,1167 1429,1174 611,1198 546,1183 501,1221 384,1215 230,1217 165,1215 43,1245"/>
+                <Baseline points="59,1292 167,1286 276,1283 384,1283 493,1283 602,1282 710,1277 819,1280 928,1277 1036,1276 1145,1270 1254,1268 1362,1271 1471,1271 1580,1273 1688,1274 1797,1270 1906,1268 2014,1271 2123,1269 2232,1268"/>
+                <TextEquiv>
+                    <Unicode>ganz In alten terminis, also daß Ich nichts darvon Schreiben Kan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;} abbrev {offset:36; length:8;}">
+                <Coords points="81,1506 397,1474 446,1516 486,1469 549,1477 677,1460 731,1482 895,1442 1121,1486 1211,1460 1611,1480 1961,1471 2235,1437 2253,1304 1938,1338 1850,1335 1647,1337 1248,1321 1066,1379 907,1333 81,1347"/>
+                <Baseline points="96,1439 202,1436 308,1438 414,1434 520,1434 626,1432 732,1431 838,1425 944,1423 1050,1419 1156,1417 1262,1417 1368,1418 1474,1421 1580,1419 1686,1418 1792,1414 1898,1414 2004,1411 2110,1411 2217,1405"/>
+                <TextEquiv>
+                    <Unicode>Schliesse Eüch Ein Schreiben an Ihr Majestät Konigin hiebay vnd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:6;} abbrev {offset:15; length:5;expansion:khöniglichen;}">
+                <Coords points="1645,1588 1544,1619 1485,1657 1150,1612 846,1674 609,1615 31,1624 26,1512 504,1466 985,1541 1225,1490 1558,1526 1647,1512"/>
+                <Baseline points="38,1593 153,1588 269,1584 385,1587 501,1590 617,1592 732,1592 848,1587 964,1584 1080,1581 1196,1581 1311,1579 1427,1575 1543,1569 1659,1567 1668,1567"/>
+                <TextEquiv>
+                    <Unicode>verbleibe Mitt khön: gnaden Wol gewogen. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="61,1778 269,1775 336,1830 394,1781 423,1810 504,1781 510,1660 452,1628 388,1665 316,1677 284,1662 232,1680 174,1642 70,1674"/>
+                <Baseline points="80,1766 105,1768 131,1766 156,1763 182,1761 207,1759 233,1758 258,1756 284,1754 309,1754 335,1754 360,1752 386,1750 411,1749 437,1747 462,1745 488,1741 514,1735"/>
+                <TextEquiv>
+                    <Unicode>Leopoldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:8;}">
+                <Coords points="1668,1509 1722,1500 2346,1500 2356,1589 1888,1626 1668,1622"/>
+                <Baseline points="1668,1567 1775,1569 1890,1564 2006,1563 2122,1568 2238,1565 2354,1566"/>
+                <TextEquiv>
+                    <Unicode>Praag, den 23. Augusti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:9;}">
+                <Coords points="2235,1655 2287,1664 2343,1671 2388,1583 2311,1564 2279,1590 2242,1593"/>
+                <Baseline points="2254,1630 2304,1618 2329,1617 2354,1617"/>
+                <TextEquiv>
+                    <Unicode>1657</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

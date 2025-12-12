@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-11-20T23:03:55.561+01:00</Created>
+        <LastChange>2025-11-23T10:26:54.440+01:00</LastChange>
+        <TranskribusMetadata docId="12342425" pageId="106563962" pageNr="35" tsid="262444807" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=UVBLRSVSNUDBPLXLRMXDTQWQ" xmlUrl="https://files.transkribus.eu/Get?id=MGVOYCYWHZINZLNYEUZBFHSQ" imageId="89483783"/>
+    </Metadata>
+    <Page imageFilename="0035_HHStA, GK, K. 33.1, Buch 1666-1667, fol. 33r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765533058493" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="465,414 1347,414 1347,776 465,776"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="476,539 609,535 616,554 669,563 688,533 822,517 889,541 918,504 1020,507 1053,538 1174,507 1308,503 1324,468 1260,437 1179,434 1010,422 801,434 662,461 506,458 481,502"/>
+                <Baseline points="482,532 662,527 822,517 912,500 1022,501 1305,497"/>
+                <TextEquiv>
+                    <Unicode>Meinem Gehaimben Rath Vnd Potschaffter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;} abbrev {offset:3; length:4;} abbrev {offset:26; length:4;}">
+                <Coords points="477,632 550,615 700,638 805,611 836,598 834,621 865,632 881,601 941,597 932,639 971,640 1011,598 1210,591 1294,644 1330,622 1342,594 1328,567 1276,538 1155,514 1053,550 1020,516 910,526 881,545 810,523 683,533 628,549 586,575 489,571"/>
+                <Baseline points="486,618 588,605 716,608 836,598 1058,592 1246,586 1330,622"/>
+                <TextEquiv>
+                    <Unicode>an Kön. Hispanischen Hove etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="483,743 655,732 798,697 837,760 1004,695 1098,748 1227,767 1322,677 1251,618 1071,613 991,646 917,650 926,616 892,614 839,661 811,612 791,615 755,641 669,636 576,618 500,670"/>
+                <Baseline points="500,700 645,702 798,697 903,710 1004,695 1102,682 1293,697"/>
+                <TextEquiv>
+                    <Unicode>Franz eusebio Graven Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

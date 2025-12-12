@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T15:59:16.157+02:00</Created>
+        <LastChange>2025-11-05T16:39:39.245+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004566" pageNr="66" tsid="262038458" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=SVEYKGIYUAMVUQIFSRTWCIYV" xmlUrl="https://files.transkribus.eu/Get?id=XLRWGZUPSEZYYVZCSXOFFIGI" imageId="87275609"/>
+    </Metadata>
+    <Page imageFilename="0066_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 86r.JPG" imageWidth="1944" imageHeight="2592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532857396" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="141,433 210,1932 1797,1890 1765,439"/>
+            <TextLine id="line_1762212471648_81" custom="readingOrder {index:0;} abbrev {offset:40; length:1;expansion:mm;}">
+                <Coords points="302,527 360,445 409,436 419,480 669,467 884,457 1013,459 1272,513 1310,515 1350,511 1450,517 1614,551 1614,606 1507,593 1462,601 1246,563 1057,566 714,579 666,581 628,560 545,590 337,583 238,615"/>
+                <Baseline points="302,564 328,562 354,557 380,550 406,550 433,550 459,547 485,546 511,545 537,544 564,544 590,544 616,544 642,542 668,541 695,540 721,540 747,542 773,546 799,543 826,538 856,540 893,537 931,539 969,540 1007,542 1045,545 1083,547 1121,548 1159,548 1197,550 1235,550 1272,550 1310,552 1348,556 1386,561 1424,566 1462,569 1500,575 1538,579 1576,582 1614,588"/>
+                <TextEquiv>
+                    <Unicode>Lieber Von Pötting. Ich Erachte, diß Slime wetter vnd die ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="296,722 385,674 451,662 519,656 587,654 682,674 791,670 858,648 925,655 1001,661 1063,659 1129,652 1197,655 1265,659 1300,687 1400,666 1469,686 1536,677 1581,706 1672,698 1673,627 1585,598 1506,594 1468,614 1383,592 1331,586 1244,575 1173,571 1119,569 1054,559 974,564 892,570 858,593 796,583 756,533 672,585 635,564 543,596 524,578 382,603 316,615"/>
+                <Baseline points="316,652 383,646 451,644 519,638 587,636 655,635 722,634 790,632 858,630 926,631 994,632 1061,634 1129,634 1197,637 1265,641 1333,646 1400,648 1468,651 1536,659 1604,672 1672,680"/>
+                <TextEquiv>
+                    <Unicode>grundloßen Erzbösen wege vnd strassen haben Verursacht, daß bay Iüngster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="318,768 386,761 454,760 522,758 590,754 645,800 726,755 794,754 860,760 930,749 999,746 1067,746 1135,746 1203,751 1271,762 1339,754 1388,769 1475,759 1522,794 1610,782 1680,788 1681,718 1607,705 1543,710 1472,696 1408,687 1343,686 1271,683 1186,662 1098,648 999,691 931,675 868,681 794,699 739,677 658,701 573,645 512,695 454,705 392,672 318,713"/>
+                <Baseline points="318,750 386,743 454,742 522,740 590,736 658,738 726,737 794,736 862,732 930,731 999,728 1067,728 1135,728 1203,733 1271,738 1339,736 1407,738 1475,741 1543,747 1611,756 1680,770"/>
+                <TextEquiv>
+                    <Unicode>ordinari Kein schreiben aus Spanien Komben. Ich befinde mich Sonsten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:3;} add {offset:63; length:3;}">
+                <Coords points="304,868 316,908 439,867 507,862 544,870 564,898 710,854 778,852 850,855 914,847 982,847 1015,885 1117,846 1185,843 1253,841 1320,861 1388,844 1454,863 1524,855 1592,866 1660,880 1660,825 1631,793 1505,786 1419,764 1381,784 1321,787 1266,764 1185,788 1117,791 1078,751 982,761 907,765 806,774 710,799 643,801 580,790 531,768 457,783 382,767 304,813"/>
+                <Baseline points="304,850 371,852 439,849 507,844 575,840 643,838 710,836 778,834 846,832 914,829 982,829 1049,828 1117,828 1185,825 1253,823 1321,824 1388,826 1456,830 1524,837 1592,848 1660,862"/>
+                <TextEquiv>
+                    <Unicode>Gott lob gar wol auf. Hiesige negotia gehen noch was schlaffer als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="306,971 367,981 446,969 498,979 585,977 655,998 694,972 775,966 867,946 937,943 1008,942 1078,938 1148,937 1161,945 1288,931 1357,951 1429,936 1499,939 1543,959 1635,970 1710,971 1711,890 1634,879 1558,880 1486,881 1416,864 1359,893 1287,871 1219,873 1145,877 1078,879 1008,897 1003,850 846,875 786,870 680,879 617,886 564,909 547,870 430,884 369,909 306,931"/>
+                <Baseline points="306,958 376,954 446,956 516,952 586,945 657,949 727,944 797,939 867,933 937,930 1008,929 1078,925 1148,924 1218,919 1288,918 1359,920 1429,923 1499,926 1569,934 1639,947 1710,958"/>
+                <TextEquiv>
+                    <Unicode>noch zu hoffen. Ich hoffe aber es werde Sich alles noch baldt schikhen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1762212491690_93" custom="readingOrder {index:5;}">
+                <Coords points="314,1023 354,984 442,1005 536,971 586,986 634,1031 634,1065 580,1069 480,1082 467,1074 420,1067 385,1100 314,1057"/>
+                <Baseline points="314,1046 380,1044 447,1048 514,1052 580,1058 634,1054"/>
+                <TextEquiv>
+                    <Unicode>der graff Zrin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;} abbrev {offset:8; length:2;} abbrev {offset:29; length:2;expansion:Reichs-;}">
+                <Coords points="618,1021 654,1017 690,1014 735,1003 750,1004 798,1007 834,1007 870,1004 909,1009 942,1002 979,1001 1123,989 1161,979 1269,992 1303,981 1340,981 1340,947 1235,935 1199,933 1159,930 1118,948 1094,945 1075,938 1015,965 989,951 956,938 879,938 845,947 802,955 770,968 743,956 699,961 660,957 618,987"/>
+                <Baseline points="618,1010 654,1006 690,1003 726,1000 762,999 798,996 834,996 870,993 906,991 942,991 979,990 1015,988 1051,985 1087,982 1123,978 1159,974 1195,970 1231,968 1267,968 1303,970 1340,970"/>
+                <TextEquiv>
+                    <Unicode>vnd der V. hochenhol mit dem R. corpo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1762212491689_92" custom="readingOrder {index:7;}">
+                <Coords points="634,1031 698,980 747,990 783,1017 860,1007 914,1022 968,1005 1060,998 1105,996 1158,974 1190,989 1247,1004 1285,991 1344,952 1381,1003 1441,985 1514,1005 1579,952 1660,1014 1648,1051 1581,1043 1514,1039 1447,1037 1382,1042 1314,1039 1248,1048 1126,1067 1102,1066 1052,1084 974,1072 908,1091 847,1060 780,1063 726,1081 636,1096 609,1102 589,1080"/>
+                <Baseline points="634,1054 647,1054 714,1052 780,1052 847,1049 914,1045 981,1042 1047,1040 1114,1033 1181,1025 1247,1027 1314,1028 1381,1026 1447,1026 1514,1028 1581,1032 1648,1040"/>
+                <TextEquiv>
+                    <Unicode>hatt gutten progresß gmacht 4 oder 5 kleine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;} abbrev {offset:30; length:4;} split_word {offset:67; length:8; continued:true;}">
+                <Coords points="201,1209 407,1164 476,1167 545,1166 614,1166 683,1166 755,1178 816,1182 890,1179 959,1160 1026,1175 1098,1155 1172,1160 1236,1144 1294,1156 1374,1141 1443,1140 1512,1138 1576,1153 1650,1152 1720,1166 1720,1111 1683,1076 1614,1059 1512,1064 1443,1085 1388,1063 1339,1055 1236,1089 1170,1054 1075,1079 984,1081 890,1111 869,1063 729,1084 646,1094 614,1111 588,1085 423,1079 386,1105 366,1089 201,1092"/>
+                <Baseline points="214,1147 407,1146 476,1149 545,1148 614,1148 683,1148 752,1146 821,1148 890,1148 959,1142 1029,1142 1098,1137 1167,1132 1236,1126 1305,1126 1374,1123 1443,1122 1512,1120 1581,1123 1650,1134 1720,1148"/>
+                <TextEquiv>
+                    <Unicode>doch Feste ordt Eroberdt, bey 1000 dörfer eingeascherdt, die Statt fienfKir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;} split_word {offset:0; length:4; continued:true;}">
+                <Coords points="301,1304 400,1272 469,1271 538,1268 607,1268 671,1279 744,1264 813,1264 882,1259 951,1256 1018,1274 1088,1249 1157,1245 1226,1240 1295,1246 1364,1242 1431,1244 1501,1226 1536,1241 1639,1229 1708,1236 1717,1177 1666,1161 1570,1172 1492,1159 1432,1177 1364,1181 1311,1165 1235,1161 1147,1161 1086,1165 1020,1197 969,1180 889,1192 815,1196 744,1209 673,1199 607,1213 548,1190 480,1193 407,1188 345,1179"/>
+                <Baseline points="332,1254 400,1254 469,1253 538,1250 607,1250 676,1249 744,1246 813,1246 882,1241 951,1238 1020,1234 1088,1231 1157,1227 1226,1222 1295,1220 1364,1218 1432,1214 1501,1208 1570,1209 1639,1211 1708,1218"/>
+                <TextEquiv>
+                    <Unicode>chen Eroberdt vnd ausgeblinderdt, die osseKer brukh ganz abgebrendt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="312,1358 383,1356 454,1356 526,1377 597,1358 669,1355 740,1373 811,1356 883,1353 954,1350 992,1382 1097,1345 1187,1338 1216,1363 1293,1356 1345,1360 1449,1354 1525,1326 1597,1324 1668,1328 1740,1332 1743,1256 1668,1247 1589,1258 1525,1284 1458,1266 1381,1268 1311,1295 1240,1295 1185,1268 1107,1266 1026,1306 954,1308 883,1311 827,1281 765,1277 680,1297 632,1273 559,1282 486,1284 369,1294 304,1312"/>
+                <Baseline points="312,1344 383,1342 454,1342 526,1344 597,1344 669,1341 740,1344 811,1342 883,1339 954,1336 1026,1334 1097,1331 1168,1326 1240,1323 1311,1323 1383,1322 1454,1317 1525,1312 1597,1310 1668,1314 1740,1318"/>
+                <TextEquiv>
+                    <Unicode>vnd ruinirdt (dise brukh soll 8500 schritt lang gwest sein), wie Ihr ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1762212555728_121" custom="readingOrder {index:11;}">
+                <Coords points="271,1415 344,1389 440,1400 521,1404 578,1428 672,1382 749,1395 800,1402 894,1372 962,1379 996,1402 1069,1395 1075,1414 1074,1458 1025,1452 1002,1448 931,1449 860,1452 764,1484 719,1470 649,1460 578,1462 507,1463 437,1464 366,1479 296,1483"/>
+                <Baseline points="296,1472 366,1457 437,1453 507,1452 578,1451 649,1449 719,1448 790,1446 860,1441 931,1438 1002,1437 1072,1440 1080,1439"/>
+                <TextEquiv>
+                    <Unicode>Zweifl von andern mitt mehren particulariten zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:12;} abbrev {offset:0; length:2;expansion:von;}">
+                <Coords points="1083,1405 1124,1398 1151,1396 1177,1394 1203,1391 1229,1391 1256,1389 1256,1355 1232,1362 1203,1357 1185,1338 1119,1346 1073,1351"/>
+                <Baseline points="1046,1392 1072,1392 1098,1389 1124,1387 1151,1385 1177,1383 1203,1380 1229,1380 1256,1378"/>
+                <TextEquiv>
+                    <Unicode>V. andern </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1762212555728_120" custom="readingOrder {index:13;}">
+                <Coords points="1080,1416 1158,1389 1217,1391 1280,1386 1318,1362 1355,1403 1418,1361 1500,1358 1584,1360 1661,1344 1733,1347 1708,1427 1642,1455 1559,1452 1496,1435 1425,1434 1355,1437 1262,1463 1213,1448 1143,1449 1080,1450"/>
+                <Baseline points="1080,1439 1143,1438 1213,1437 1284,1430 1355,1426 1425,1423 1496,1424 1566,1423 1637,1419 1708,1416"/>
+                <TextEquiv>
+                    <Unicode>werdet verstanden haben. So Ich Euch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:14;} abbrev {offset:0; length:8;}">
+                <Coords points="300,1600 370,1584 440,1577 510,1588 580,1575 651,1572 721,1570 791,1563 861,1560 931,1556 1002,1554 1072,1552 1133,1586 1212,1552 1283,1571 1354,1552 1423,1554 1493,1544 1563,1545 1633,1544 1704,1546 1714,1470 1633,1489 1583,1462 1496,1472 1423,1488 1354,1467 1282,1491 1212,1497 1177,1447 1064,1483 1000,1489 926,1481 862,1490 787,1487 719,1489 658,1479 575,1491 508,1485 444,1500 402,1482 288,1524"/>
+                <Baseline points="300,1582 370,1566 440,1559 510,1558 580,1557 651,1554 721,1552 791,1545 861,1542 931,1538 1002,1536 1072,1534 1142,1534 1212,1534 1282,1528 1353,1524 1423,1525 1493,1526 1563,1527 1633,1526 1704,1528"/>
+                <TextEquiv>
+                    <Unicode>gnädigst nit verhaldten Wollen. Verbleibe Euch anbey allezeit mitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;} abbrev {offset:0; length:4;} abbrev {offset:9; length:4;}">
+                <Coords points="320,1688 372,1681 385,1728 432,1723 530,1678 583,1680 636,1679 688,1678 741,1676 794,1673 837,1692 899,1668 952,1666 1005,1661 1057,1660 1097,1677 1161,1683 1215,1660 1244,1693 1321,1656 1374,1656 1374,1601 1321,1601 1268,1602 1215,1605 1164,1592 1110,1603 1057,1605 1002,1572 952,1611 899,1613 856,1599 794,1618 754,1581 688,1623 635,1590 559,1605 530,1623 478,1625 425,1623 395,1573 320,1633"/>
+                <Baseline points="320,1670 372,1663 425,1660 478,1662 530,1660 583,1662 636,1661 688,1660 741,1658 794,1655 847,1652 899,1650 952,1648 1005,1643 1057,1642 1110,1640 1163,1642 1215,1642 1268,1639 1321,1638 1374,1638"/>
+                <TextEquiv>
+                    <Unicode>Kay. vnd Kön. hulden vnd genaden wol gewogen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="285,1823 391,1786 439,1833 492,1781 517,1780 542,1778 567,1778 592,1778 618,1782 635,1731 629,1695 587,1696 558,1700 517,1725 482,1679 405,1675 289,1702"/>
+                <Baseline points="366,1764 391,1768 416,1767 441,1766 466,1765 492,1763 517,1762 542,1760 567,1760 592,1760 618,1764"/>
+                <TextEquiv>
+                    <Unicode>Leopoldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:17;}">
+                <Coords points="1478,1650 1504,1652 1546,1670 1582,1658 1608,1660 1629,1677 1661,1662 1687,1664 1706,1701 1755,1689 1766,1674 1766,1620 1739,1617 1726,1596 1706,1580 1661,1608 1635,1606 1608,1606 1582,1604 1560,1573 1512,1564 1462,1572"/>
+                <Baseline points="1478,1632 1504,1634 1530,1635 1556,1637 1582,1640 1608,1642 1635,1642 1661,1644 1687,1646 1713,1649 1739,1653 1766,1656"/>
+                <TextEquiv>
+                    <Unicode>Regenspuburg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:18;} abbrev {offset:8; length:4;}">
+                <Coords points="1462,1699 1487,1701 1512,1705 1537,1711 1562,1716 1587,1718 1613,1723 1638,1728 1663,1732 1698,1754 1726,1764 1762,1778 1764,1709 1733,1684 1702,1703 1693,1690 1681,1661 1636,1657 1601,1664 1567,1671 1539,1665 1520,1663 1503,1638 1462,1659"/>
+                <Baseline points="1462,1686 1487,1688 1512,1692 1537,1698 1562,1703 1587,1705 1613,1710 1638,1715 1663,1719 1688,1722 1713,1727 1738,1733 1764,1736"/>
+                <TextEquiv>
+                    <Unicode>den 28. feb. 1664</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lieber Von Pötting. Ich erachte diß slimme wetter und die ganßgrundloßen Erzböse wege und strassen haben verursacht, daß bay Iüngsteordinari kein schreiben aus Spanien komben. Ich befinde mich SonstenGott lob gar wol auf. Hiesig negotia gehen noch was schlaffer alsnoch zu hoffe. Ich hoffe aber, es werde Sich alles noch baldt schikhen.der graff Zrinund der V. hochenhol mit den Rei. corpohatt gutten progresß gemacht 4 oder 5 kleinedoch Feste ordt eroberdt bey 1000 dörfer eingeaschdt, die stat fienfkirchen eroberdt und aus geblindedt, die esseker brukeh ganz abgebrendtund ruinirdt, dise brikh soll 8500 schritt lang gwest sein. Wie Ihr ohneZweifl von andern mitt mehr particulari zuV. andern werdet verstanden haben. So Ich Euchgnädigst nit verhaldten Wollen. Verbleibe Euch ahnbey allzeit mitkay. und kön. hulden und genaden wol gewogen.Regenstenburgden 28. feb. 1664Leopoldt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

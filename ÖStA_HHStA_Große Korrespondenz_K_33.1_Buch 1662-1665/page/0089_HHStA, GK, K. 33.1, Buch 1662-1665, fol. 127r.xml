@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T15:59:34.211+02:00</Created>
+        <LastChange>2025-11-14T17:04:39.852+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004624" pageNr="89" tsid="262036521" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PMFSAEXLOIDVSSQWSRWPDZTJ" xmlUrl="https://files.transkribus.eu/Get?id=VEOONWXRWHVUWSVIHITCLFMJ" imageId="87275659"/>
+    </Metadata>
+    <Page imageFilename="0089_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 127r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532862737" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="436,591 1468,586 1466,909 435,950"/>
+            <TextLine id="l" custom="readingOrder {index:0;} abbrev {offset:16; length:1;}">
+                <Coords points="445,761 530,769 596,813 719,765 1428,789 1436,645 1245,625 931,617 722,603 458,613"/>
+                <Baseline points="458,761 1144,750 1423,766"/>
+                <TextEquiv>
+                    <Unicode>An Franz eusebium Graven</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:1;}">
+                <Coords points="451,885 768,924 869,868 847,786 720,764 595,815 527,767 451,776"/>
+                <Baseline points="470,860 839,857"/>
+                <TextEquiv>
+                    <Unicode>Von Petting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

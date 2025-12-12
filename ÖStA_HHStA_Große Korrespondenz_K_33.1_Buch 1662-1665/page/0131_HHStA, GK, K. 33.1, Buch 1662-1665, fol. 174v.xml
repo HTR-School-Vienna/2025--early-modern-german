@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.35.0:model_id=309593:date=29_11_2025_16:28</Creator>
+        <Created>2025-10-07T16:00:04.023+02:00</Created>
+        <LastChange>2025-12-03T22:31:08.500+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004659" pageNr="131" tsid="263615958" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MZVRJXLMPWEHFWRHWEOHIGAO" xmlUrl="https://files.transkribus.eu/Get?id=ZFQWGXIFQBXJWPSNATXHGPVK" imageId="87275668"/>
+    </Metadata>
+    <Page imageFilename="0131_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 174v.JPG" imageWidth="1944" imageHeight="2592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532874360" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="361,622 1057,624 1051,1079 348,1078"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} abbrev {offset:23; length:4;expansion:königlichen;}">
+                <Coords points="375,798 513,775 608,799 648,780 802,789 876,768 1011,801 1012,686 831,680 735,725 554,714 510,733 408,684"/>
+                <Baseline points="412,780 414,780 444,776 474,774 504,772 534,772 564,774 594,776 624,776 654,778 684,778 714,776 744,774 774,774 804,772 834,770 864,768 894,770 924,768 954,770 984,774 1014,776"/>
+                <TextEquiv>
+                    <Unicode>Meinen Potschaffter an Kön.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} abbrev {offset:18; length:4;}">
+                <Coords points="375,885 449,889 584,895 629,873 689,890 729,886 807,909 868,895 1006,885 1007,801 934,771 860,812 715,784 499,804 435,785 376,806"/>
+                <Baseline points="380,878 408,876 438,868 468,866 498,862 528,860 558,860 588,864 618,864 648,866 678,866 708,866 738,868 768,864 798,866 828,866 858,862 888,860 918,860 948,858 978,862 1008,860"/>
+                <TextEquiv>
+                    <Unicode>hispanischen Hove etc. Franz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} abbrev {offset:15; length:2;expansion:von;}">
+                <Coords points="374,964 464,957 551,1001 635,955 791,954 912,1020 997,1002 992,884 877,871 727,897 684,899 626,917 526,878 472,909 371,898"/>
+                <Baseline points="378,934 408,936 438,940 468,942 498,940 528,942 558,942 588,942 618,942 648,944 678,944 708,946 738,948 768,952 798,954 828,956 858,958 888,956 918,956 948,956 978,958 998,964"/>
+                <TextEquiv>
+                    <Unicode>eusebio graven v. Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

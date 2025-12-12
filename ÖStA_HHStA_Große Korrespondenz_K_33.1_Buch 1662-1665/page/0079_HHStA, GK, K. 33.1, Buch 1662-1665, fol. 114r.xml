@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.35.0:model_id=309593:date=29_11_2025_16:11</Creator>
+        <Created>2025-10-07T15:59:25.533+02:00</Created>
+        <LastChange>2025-12-03T23:06:37.623+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004603" pageNr="79" tsid="263618728" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EADNKXUHRNNFLGGIRLQYMSCT" xmlUrl="https://files.transkribus.eu/Get?id=DOIJCTAPWLYTZKWFKPMIJRUF" imageId="87275692"/>
+    </Metadata>
+    <Page imageFilename="0079_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 114r.JPG" imageWidth="1944" imageHeight="2592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532860712" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="162,267 1905,247 1869,1244 105,1271"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="326,436 629,459 815,449 1377,443 1769,469 1769,365 1594,332 1441,350 1120,339 855,308 696,340 416,319 326,358"/>
+                <Baseline points="336,426 366,426 396,422 426,420 456,418 486,414 516,412 546,410 576,408 606,406 636,404 666,402 696,400 726,398 756,398 786,398 816,396 846,396 876,396 906,398 936,394 966,394 996,394 1026,394 1056,394 1086,394 1116,396 1146,396 1176,396 1206,398 1236,400 1266,402 1296,404 1326,404 1356,406 1386,410 1416,414 1446,414 1476,418 1506,420 1536,420 1566,422 1596,424 1626,424 1656,434 1686,440 1716,442 1746,444 1772,446"/>
+                <TextEquiv>
+                    <Unicode>Lieber von Pötting, diese wenig Zeilen dienen nur pro recepisse auf Eur schreiben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;} textStyle {offset:18; length:2;strikethrough} abbrev {offset:49; length:2;}">
+                <Coords points="325,557 1113,492 1346,540 1570,534 1810,515 1571,445 1238,456 1083,428 905,438 709,444 335,455"/>
+                <Baseline points="346,540 366,538 396,528 426,522 456,518 486,514 516,514 546,510 576,510 606,508 636,508 666,508 696,506 726,502 756,500 786,498 816,498 846,498 876,496 906,496 936,496 966,494 996,492 1026,492 1056,492 1086,488 1116,488 1146,490 1176,492 1206,494 1236,494 1266,496 1296,496 1326,498 1356,500 1386,500 1416,502 1446,502 1476,504 1506,506 1536,506 1566,506 1596,508 1626,510 1656,508 1686,508 1716,512"/>
+                <TextEquiv>
+                    <Unicode>Von 14. Marz. Ich Ra kann Vor dißmal nit specialius andtwordten, dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;} abbrev {offset:12; length:3;expansion:heilige;} abbrev {offset:47; length:6;}">
+                <Coords points="356,649 583,677 865,657 1046,662 1418,622 1799,649 1819,519 1238,563 1083,503 1003,546 788,542 656,531 580,587 477,542 356,585"/>
+                <Baseline points="366,636 392,632 422,628 452,628 482,626 512,626 542,626 572,628 602,624 632,622 662,618 692,616 722,614 752,610 782,608 812,606 842,604 872,602 902,602 932,600 962,600 992,602 1022,602 1052,602 1082,602 1112,604 1142,602 1172,600 1202,600 1232,600 1262,600 1292,600 1322,600 1352,602 1382,602 1412,602 1442,604 1472,604 1502,604 1532,606 1562,606 1592,608 1622,610 1652,614 1682,616 1712,618 1742,628 1772,632 1802,634"/>
+                <TextEquiv>
+                    <Unicode>der heuttige h. tag vnd die vill Kirchen occupationes lasßen es mir nitt Zue.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="322,760 444,738 568,788 766,756 1111,762 1420,718 1818,782 1830,680 1347,624 841,687 701,650 565,699 485,665 322,721"/>
+                <Baseline points="332,744 362,740 392,738 422,738 452,738 482,738 512,738 542,738 572,740 602,740 632,738 662,734 692,736 722,734 752,732 782,732 812,732 842,732 872,730 902,730 932,728 962,726 992,726 1022,726 1052,726 1082,726 1112,726 1142,726 1172,724 1202,722 1232,720 1262,718 1292,718 1322,716 1352,714 1382,712 1412,712 1442,714 1472,714 1502,716 1532,718 1562,720 1592,722 1622,724 1652,728 1682,732 1712,736 1742,742 1772,750 1802,756 1822,756"/>
+                <TextEquiv>
+                    <Unicode>allein Erinder Ich Euch meiner guetten gesundtheitt vnd Erwardte Einer categorischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;} abbrev {offset:64; length:10;expansion:Gnadigste;}">
+                <Coords points="335,850 391,866 580,876 872,869 1442,844 1741,854 1741,772 1510,738 804,761 335,798"/>
+                <Baseline points="346,844 376,840 406,838 436,838 466,838 496,840 526,838 556,838 586,836 616,836 646,832 676,832 706,830 736,830 766,830 796,828 826,826 856,824 886,826 916,826 946,826 976,824 1006,822 1036,822 1066,820 1096,820 1126,818 1156,818 1186,818 1216,816 1246,814 1276,814 1306,814 1336,812 1366,812 1396,810 1426,812 1456,814 1486,818 1516,822 1546,822 1576,826 1606,830 1636,830 1666,834 1696,838 1726,842 1744,844"/>
+                <TextEquiv>
+                    <Unicode>resolution wegen meiner Infantin hraus Reiß. Vnd Verbleibe Euch gnädigster herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="242,955 249,1038 481,1025 555,1007 686,855 520,858 446,861 367,865"/>
+                <Baseline points="288,1005 410,960 440,958 470,952 500,950 530,944 560,944"/>
+                <TextEquiv>
+                    <Unicode>Leopoldt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;} abbrev {offset:12; length:3;}">
+                <Coords points="1274,925 1416,947 1536,902 1636,960 1689,921 1765,934 1790,887 1681,841 1617,856 1467,835 1374,854 1319,826 1268,834 1234,870"/>
+                <Baseline points="1284,888 1314,888 1344,886 1374,886 1404,888 1434,892 1464,894 1494,898 1524,900 1554,904 1584,906 1614,908 1644,910 1674,914 1704,918 1734,922 1764,928 1770,928"/>
+                <TextEquiv>
+                    <Unicode>Regenspurg, den 10. Aprill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="1673,974 1720,984 1765,993 1799,996 1806,951 1770,923 1745,918 1722,923 1709,916 1692,921 1670,924"/>
+                <Baseline points="1682,960 1712,958 1742,962 1772,964 1792,966"/>
+                <TextEquiv>
+                    <Unicode>1664</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

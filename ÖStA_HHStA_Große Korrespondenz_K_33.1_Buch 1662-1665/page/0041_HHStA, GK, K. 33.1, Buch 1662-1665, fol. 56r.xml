@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-07T15:58:59.112+02:00</Created>
+        <LastChange>2025-11-23T10:29:30.120+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004518" pageNr="41" tsid="262444860" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YOCQNEBPRMQYMUMTHQCDPGMJ" xmlUrl="https://files.transkribus.eu/Get?id=BYCHQEJKCIHDYSVKGZTCTYYM" imageId="87275610"/>
+    </Metadata>
+    <Page imageFilename="0041_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 56r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532849292" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1039,257 1910,257 1910,614 1039,614"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1071,398 1188,444 1238,406 1321,419 1429,423 1607,451 1794,447 1891,395 1892,286 1696,267 1523,314 1374,322 1176,279 1093,276 1061,360"/>
+                <Baseline points="1071,398 1198,397 1347,396 1451,411 1579,397 1887,390"/>
+                <TextEquiv>
+                    <Unicode>An Franz eusebium Graffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="1070,530 1292,550 1366,606 1428,570 1470,524 1505,492 1445,462 1323,431 1267,439 1236,463 1130,435 1057,443"/>
+                <Baseline points="1127,489 1232,493 1361,522 1470,524"/>
+                <TextEquiv>
+                    <Unicode>von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

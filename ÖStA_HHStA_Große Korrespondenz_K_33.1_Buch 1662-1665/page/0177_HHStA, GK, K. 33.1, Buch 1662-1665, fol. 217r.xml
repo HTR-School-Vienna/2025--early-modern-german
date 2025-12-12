@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=445185:lm=none:date=03_12_2025_08:10</Creator>
+        <Created>2025-10-07T16:00:41.205+02:00</Created>
+        <LastChange>2025-12-03T08:15:16.072+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004707" pageNr="177" tsid="263535708" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BJPXIATVCJGDUJKSPEKRDQZH" xmlUrl="https://files.transkribus.eu/Get?id=XOVCGCEYEFIZEXBEELURULFU" imageId="87275719"/>
+    </Metadata>
+    <Page imageFilename="0177_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 217r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532888367" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="240,344 218,966 1504,967 1527,376"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="241,625 416,567 592,608 959,530 1130,528 1292,548 1494,566 1500,416 1158,378 947,436 800,405 448,448 247,469"/>
+                <Baseline points="250,585 312,577 374,565 437,557 499,551 562,546 624,543 687,535 749,528 812,526 874,522 936,519 999,516 1061,515 1124,511 1186,510 1249,516 1311,518 1374,524 1436,533 1499,540"/>
+                <TextEquiv>
+                    <Unicode>Meinem Pottschaffter an des Konigs Von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;} abbrev {offset:10; length:7;} abbrev {offset:23; length:4;}">
+                <Coords points="239,758 586,691 996,737 1130,695 1225,709 1370,675 1375,555 1153,504 816,520 636,556 476,592 328,578 245,633"/>
+                <Baseline points="250,713 306,701 362,695 418,685 475,678 531,674 587,669 644,665 700,665 756,662 813,661 869,657 925,659 981,653 1038,653 1094,653 1150,653 1207,656 1263,656 1319,658 1376,659"/>
+                <TextEquiv>
+                    <Unicode>hispanien Liebden hove etc. Franzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="266,858 764,880 859,812 1293,956 1380,861 1384,711 1312,684 1112,700 1028,672 894,727 710,710 724,655 692,637 620,676 546,654 344,731 269,770"/>
+                <Baseline points="274,851 329,845 385,840 440,834 496,827 551,823 607,817 662,810 718,809 773,806 829,804 885,803 940,800 996,796 1051,796 1107,802 1162,809 1218,810 1273,812 1329,814 1385,815"/>
+                <TextEquiv>
+                    <Unicode>Eusebio Graven Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

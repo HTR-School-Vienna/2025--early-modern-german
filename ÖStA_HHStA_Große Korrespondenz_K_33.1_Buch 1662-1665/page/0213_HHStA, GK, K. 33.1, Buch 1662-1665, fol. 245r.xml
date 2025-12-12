@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.33.0:model_id=50870:lm=none:date=26_10_2025_20:30</Creator>
+        <Created>2025-10-07T16:01:06.943+02:00</Created>
+        <LastChange>2025-11-14T23:24:15.873+01:00</LastChange>
+        <TranskribusMetadata docId="11132745" pageId="104004782" pageNr="213" tsid="262037175" status="GT" userId="220254" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=DJBAPKMEZPTCGOZEQEAEFJPE" xmlUrl="https://files.transkribus.eu/Get?id=KDNTFOPODZENZSHHBPOVFLVM" imageId="87275835"/>
+    </Metadata>
+    <Page imageFilename="0213_HHStA, GK, K. 33.1, Buch 1662-1665, fol. 245r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765532900219" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="740,294 722,820 1922,788 1903,327"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="768,532 920,463 1027,494 1369,450 1720,486 1886,522 1886,382 1811,362 1380,341 1267,354 1195,404 1072,333 975,389 876,351 784,386"/>
+                <Baseline points="791,468 848,457 906,451 964,447 1022,447 1080,443 1138,443 1195,444 1253,441 1311,439 1369,435 1427,434 1485,432 1542,434 1600,438 1658,446 1716,452 1774,459 1832,464 1890,477"/>
+                <TextEquiv>
+                    <Unicode>Meinem Gehaimben Rath Vnd Posttschaffter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} abbrev {offset:28; length:5;}">
+                <Coords points="791,602 1112,567 1154,580 1248,550 1339,584 1557,548 1629,575 1896,616 1900,529 1702,473 1411,459 1201,474 1066,473 1043,479 1001,465 920,463 800,513"/>
+                <Baseline points="806,576 846,571 886,563 926,557 967,555 1007,555 1047,554 1088,551 1128,548 1168,546 1209,543 1249,543 1289,541 1329,542 1370,541 1410,540 1450,539 1491,537 1531,537 1571,537 1871,594"/>
+                <TextEquiv>
+                    <Unicode>An des Konigs Von hispanien Khön. hove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="755,737 928,700 1221,747 1330,682 1423,712 1478,682 1779,788 1820,766 1825,594 1657,604 1532,543 1345,624 1166,588 965,573 871,556 758,628"/>
+                <Baseline points="764,698 817,683 870,672 923,668 976,669 1029,665 1082,665 1136,662 1189,662 1242,662 1295,661 1348,659 1401,659 1454,656 1508,650 1561,647 1614,655 1667,663 1720,662 1773,663 1827,668"/>
+                <TextEquiv>
+                    <Unicode>Franz eusebio graven Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

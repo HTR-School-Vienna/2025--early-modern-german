@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-11-20T23:04:15.052+01:00</Created>
+        <LastChange>2025-12-05T15:33:35.759+01:00</LastChange>
+        <TranskribusMetadata docId="12342425" pageId="106563949" pageNr="51" tsid="263965702" status="GT" userId="14631" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RDKQWYWIJYTXDIWEPJSTZKZN" xmlUrl="https://files.transkribus.eu/Get?id=FZSMIIREROFZJYCMWTSLKJWS" imageId="89483670"/>
+    </Metadata>
+    <Page imageFilename="0051_HHStA, GK, K. 33.1, Buch 1666-1667, fol. 51r.JPG" imageWidth="2592" imageHeight="1944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765533070770" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="877,497 1805,497 1805,866 877,866"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="906,601 910,616 932,617 1006,603 1074,589 1093,600 1094,619 1101,620 1109,620 1119,614 1127,610 1139,600 1145,607 1159,611 1173,599 1225,590 1242,583 1296,591 1300,619 1309,636 1327,633 1325,612 1316,591 1355,577 1331,600 1347,623 1363,626 1382,607 1394,595 1411,592 1458,589 1515,585 1519,605 1534,611 1551,599 1575,597 1617,597 1672,587 1728,576 1741,629 1796,635 1777,542 1745,509 1703,512 1612,508 1546,522 1514,512 1467,502 1365,513 1305,502 1257,507 1151,503 1087,512 963,506 925,565"/>
+                <Baseline points="926,595 1000,592 1079,590 1142,588 1227,579 1287,579 1355,577 1413,571 1473,577 1537,573 1586,577 1627,574 1674,578 1728,576 1757,578"/>
+                <TextEquiv>
+                    <Unicode>Meinen Gehaimben Rath Vnd Pottschaffter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;} abbrev {offset:3; length:4;expansion:Königlichem;} abbrev {offset:26; length:4;}">
+                <Coords points="939,661 945,669 973,670 1035,677 1073,667 1092,664 1114,668 1119,684 1134,699 1153,692 1165,681 1169,691 1179,691 1188,690 1199,678 1209,665 1219,689 1233,694 1245,691 1257,682 1263,665 1299,668 1330,671 1321,698 1322,715 1336,719 1345,716 1351,706 1357,696 1367,683 1379,674 1417,675 1393,699 1400,713 1423,712 1440,700 1463,678 1484,680 1527,684 1527,711 1538,715 1555,713 1572,707 1573,740 1581,739 1589,731 1601,721 1615,704 1646,684 1686,716 1705,724 1725,719 1738,697 1759,639 1748,636 1697,650 1703,606 1712,589 1711,580 1703,579 1692,586 1681,594 1620,632 1545,643 1509,634 1521,612 1523,595 1518,586 1505,587 1490,599 1480,615 1443,634 1411,627 1415,609 1410,596 1400,594 1386,605 1379,619 1344,624 1334,628 1295,633 1297,608 1296,596 1285,594 1274,607 1262,620 1254,585 1238,583 1223,597 1210,614 1149,621 1085,620 1089,593 1078,583 1070,588 1062,602 1044,616 970,622 938,631"/>
+                <Baseline points="939,661 988,660 1053,655 1091,655 1147,657 1218,652 1261,656 1303,662 1359,662 1409,657 1439,664 1495,665 1541,673 1615,678 1667,678 1695,680 1732,682"/>
+                <TextEquiv>
+                    <Unicode>an Kön. hispanischen hove etc. Franz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="925,747 921,774 930,782 948,780 1014,762 1098,765 1114,786 1127,806 1146,802 1160,790 1173,767 1211,765 1319,770 1396,766 1426,799 1445,805 1471,791 1490,773 1499,777 1489,804 1478,827 1498,836 1522,842 1558,835 1588,803 1635,742 1586,742 1570,738 1559,726 1563,696 1542,697 1534,698 1524,705 1516,711 1501,713 1497,703 1482,692 1473,696 1460,699 1445,703 1432,714 1388,715 1381,692 1369,692 1357,703 1347,700 1338,704 1328,707 1319,714 1314,721 1223,715 1182,716 1181,701 1186,690 1191,682 1193,672 1184,669 1175,675 1168,682 1158,694 1146,707 1108,705 1097,670 1092,662 1080,669 1070,684 1053,705 987,679 968,685 926,717"/>
+                <Baseline points="925,747 982,748 1021,749 1083,749 1117,746 1185,753 1218,750 1314,758 1361,758 1406,750 1463,752 1497,758 1531,757 1557,756 1588,761 1612,769"/>
+                <TextEquiv>
+                    <Unicode>Eusebio Graven Von Pötting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
